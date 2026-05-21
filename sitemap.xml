@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://esmeraldaservice.com/</loc>
+    <lastmod>2026-05-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esmeraldaservice.com/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://esmeraldaservice.com/en/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esmeraldaservice.com/" />
+  </url>
+  <url>
+    <loc>https://esmeraldaservice.com/en/</loc>
+    <lastmod>2026-05-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esmeraldaservice.com/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://esmeraldaservice.com/en/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esmeraldaservice.com/" />
+  </url>
+  <url>
+    <loc>https://esmeraldaservice.com/privacy/</loc>
+    <lastmod>2026-05-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esmeraldaservice.com/privacy/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://esmeraldaservice.com/en/privacy/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esmeraldaservice.com/privacy/" />
+  </url>
+  <url>
+    <loc>https://esmeraldaservice.com/en/privacy/</loc>
+    <lastmod>2026-05-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esmeraldaservice.com/privacy/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://esmeraldaservice.com/en/privacy/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esmeraldaservice.com/privacy/" />
+  </url>
+  <url>
+    <loc>https://esmeraldaservice.com/legal/</loc>
+    <lastmod>2026-05-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esmeraldaservice.com/legal/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://esmeraldaservice.com/en/legal/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esmeraldaservice.com/legal/" />
+  </url>
+  <url>
+    <loc>https://esmeraldaservice.com/en/legal/</loc>
+    <lastmod>2026-05-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esmeraldaservice.com/legal/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://esmeraldaservice.com/en/legal/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esmeraldaservice.com/legal/" />
+  </url>
+</urlset>
