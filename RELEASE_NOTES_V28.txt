@@ -1,0 +1,8 @@
+ESMERALDA V28 — TEAM PHOTOS
+
+Main changes:
+- Integrated professional portraits for Mauricio Tancredi Vegas and José Manuel Alayeto Pinzón.
+- Replaced monogram placeholders in the hero panel founder list with circular headshots.
+- Replaced monogram blocks in the Team section with premium portrait banners.
+- Preserved GitHub Pages compatibility, SEO, bilingual structure, and contact form.
+- Updated site version marker to esmeralda-v28-team-photos.
