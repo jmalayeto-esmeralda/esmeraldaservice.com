@@ -9,7 +9,7 @@
 <meta name="author" content="Esmeralda Service">
 <meta name="theme-color" content="#526863">
 <meta name="application-name" content="Esmeralda Service">
-<meta name="site-version" content="esmeralda-v27-seo-technical">
+<meta name="site-version" content="esmeralda-v28-team-photos">
 <meta property="og:title" content="Esmeralda Service — Legal strategy in Venezuela for companies and investors">
 <meta property="og:description" content="Boutique legal counsel in Caracas for companies, investors and family offices: corporate structuring, market entry, due diligence, compliance, tax, labor, IP, disputes and business strategy in Venezuela.">
 <meta property="og:url" content="https://esmeraldaservice.com/en/">
@@ -457,10 +457,10 @@ h2 em{color:var(--gold);font-style:italic}
 .team-grid{display:grid;grid-template-columns:1fr 1fr;gap:24px}
 .team-card{background:rgba(255,255,255,.88);border:1px solid var(--border);border-radius:18px;overflow:hidden;transition:transform .3s,box-shadow .3s;box-shadow:var(--shadow)}
 .team-card:hover{transform:translateY(-4px);box-shadow:var(--shadow)}
-.team-avatar{height:280px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:12px;position:relative}
+.team-avatar{height:340px;display:flex;flex-direction:column;align-items:center;justify-content:flex-end;gap:0;position:relative;overflow:hidden;background:#eef4f1}
 .team-avatar-mt{background:linear-gradient(150deg,#d6e4df 0%,#f5faf8 100%)}
 .team-avatar-ja{background:linear-gradient(150deg,#d7e2df 0%,#f4faf8 100%)}
-.team-avatar::before{content:'';position:absolute;inset:0;background:repeating-linear-gradient(45deg,rgba(107,142,134,.02) 0px,rgba(107,142,134,.02) 1px,transparent 1px,transparent 24px)}
+.team-avatar::before{content:'';position:absolute;inset:0;background:linear-gradient(180deg,rgba(17,30,28,0) 45%, rgba(17,30,28,.24) 100%);z-index:1}
 .team-monogram{font-family:'Cormorant',serif;font-size:80px;color:rgba(107,142,134,.8);line-height:1;font-style:italic;position:relative;z-index:1}
 .team-avatar-line{width:48px;height:1px;background:rgba(107,142,134,.3);position:relative;z-index:1}
 .team-avatar-label{font-size:10px;letter-spacing:3px;text-transform:uppercase;color:rgba(107,142,134,.4);position:relative;z-index:1}
@@ -730,6 +730,14 @@ footer{background:#F8F5EF;border-top:1px solid var(--border-2);padding:56px 52px
   .lang-sw a{padding:0 9px}
 }
 
+
+.team-photo{width:100%;height:100%;object-fit:cover;object-position:center top;display:block}
+.team-avatar-line,.team-monogram{display:none}
+.team-avatar-label{font-size:10px;letter-spacing:2px;text-transform:uppercase;color:var(--gold-l);position:absolute;left:22px;bottom:20px;z-index:2;background:rgba(250,248,243,.88);padding:8px 12px;border-radius:999px;border:1px solid rgba(107,142,134,.22);backdrop-filter:blur(10px)}
+.founder-row{align-items:center}
+@media(max-width: 900px){.team-avatar{height:300px}}
+@media(max-width: 640px){.team-avatar{height:260px}.founder-avatar{width:52px;height:52px}}
+
 </style>
 </head>
 <body>
@@ -792,7 +800,7 @@ footer{background:#F8F5EF;border-top:1px solid var(--border-2);padding:56px 52px
     <div class="hero-panel">
       <div class="hero-panel-title">Senior Partners</div>
       <div class="founder-row">
-        <div class="founder-avatar founder-avatar-mt">MT</div>
+        <div class="founder-avatar founder-avatar-mt"><img src="/assets/mauricio-tancredi-vegas.png" alt="Mauricio Tancredi Vegas"></div>
         <div>
           <div class="founder-name">Mauricio Tancredi Vegas</div>
           <div class="founder-detail">Corporate · Tax · Labor · Oil &amp; Gas</div>
@@ -803,7 +811,7 @@ footer{background:#F8F5EF;border-top:1px solid var(--border-2);padding:56px 52px
         </div>
       </div>
       <div class="founder-row">
-        <div class="founder-avatar founder-avatar-ja">JA</div>
+        <div class="founder-avatar founder-avatar-ja"><img src="/assets/jose-manuel-alayeto.png" alt="José Manuel Alayeto Pinzón"></div>
         <div>
           <div class="founder-name">José Manuel Alayeto Pinzón</div>
           <div class="founder-detail">Corporate · Cross-Border · Strategy</div>
@@ -1000,8 +1008,7 @@ footer{background:#F8F5EF;border-top:1px solid var(--border-2);padding:56px 52px
       <!-- Mauricio -->
       <div class="team-card">
         <div class="team-avatar team-avatar-mt">
-          <div class="team-monogram">MT</div>
-          <div class="team-avatar-line"></div>
+          <img class="team-photo" src="/assets/mauricio-tancredi-vegas.png" alt="Mauricio Tancredi Vegas">
           <div class="team-avatar-label">Founding Partner</div>
         </div>
         <div class="team-body">
@@ -1023,8 +1030,7 @@ footer{background:#F8F5EF;border-top:1px solid var(--border-2);padding:56px 52px
       <!-- José Manuel -->
       <div class="team-card">
         <div class="team-avatar team-avatar-ja">
-          <div class="team-monogram">JA</div>
-          <div class="team-avatar-line"></div>
+          <img class="team-photo" src="/assets/jose-manuel-alayeto.png" alt="José Manuel Alayeto Pinzón">
           <div class="team-avatar-label">Founding Partner</div>
         </div>
         <div class="team-body">
