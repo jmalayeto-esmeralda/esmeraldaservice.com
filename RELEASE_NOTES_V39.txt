@@ -1,0 +1,11 @@
+ESMERALDA V39 — SPANISH LANGUAGE POLISH
+
+Cambios:
+- Limpieza de Spanglish en la versión española de Venture Studio.
+- Menú en español: Diagnóstico, Sistema, Trabajos, Contacto.
+- Capacidades traducidas: Estrategia, Legal + PI, Marca, Narrativa, Digital + Comercio, Escala.
+- Etiquetas de diagnóstico y situaciones traducidas.
+- Frase de modelo de equipo sustituida por: “Dirección senior. Ejecución especializada. Cero capas innecesarias.”
+- Se mantiene “Venture Studio”, “ecommerce”, “Shopify” y “Lifestyle” como terminología de categoría/mercado cuando tiene sentido.
+- Versión inglesa se mantiene en inglés.
+- Marcador interno: esmeralda-v39-spanish-language-polish.
