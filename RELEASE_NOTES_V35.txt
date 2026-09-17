@@ -1,0 +1,8 @@
+Esmeralda Venture Studio — V35 UX balance refinement
+
+- Reduced oversized editorial typography in hero and narrative sections.
+- Improved readability so key ideas fit more naturally within a single screen.
+- Rebalanced capabilities grid to eliminate oversized Strategy card whitespace.
+- Standardized card heights and spacing for cleaner composition.
+- Softened large diagnostic / statement headlines for a calmer premium feel.
+- Updated site-version meta marker to esmeralda-v35-venture-studio-ux-balance.
