@@ -1,0 +1,24 @@
+ESMERALDA V33 — VENTURE STUDIO NARRATIVE v0.2
+
+Implemented the new narrative brief without rebuilding the site from zero.
+
+Main changes:
+- New founder/product-led hero: “Tienes algo bueno. Que no se quede pequeño.”
+- Removed defensive positioning such as “No somos solamente abogados.”
+- Added product-to-company narrative: Producto → Marca → Negocio → Escala.
+- Added emotional recognition section with founder/product moments.
+- Reframed Venture Studio as building companies around good products.
+- Rebuilt capabilities around Strategy, Legal + IP, Brand, Story, Digital + Commerce, Scale.
+- Added stronger Venture Diagnostic copy: “No te vendemos lo que tenemos. Descubrimos lo que necesitas.”
+- Updated Studio System to “De aquí a allá.”
+- Updated recognition cards with the new problem/intervention pairs.
+- Added Consumer Brand Focus with more human, sensory language.
+- Updated Selected Work for Agrofinca and Araguaney.
+- Added team model section: “Un solo proyecto. El equipo que haga falta.”
+- Reworked “No empezamos por el logo” with stronger questions.
+- Reworked Scale / Capital Readiness.
+- Shortened Venture Studio form and gave it its own project language.
+- Mobile-first CSS refinement: hero text appears first, visual card compacted, better typography scale.
+
+Version marker:
+esmeralda-v33-venture-studio-narrative-v02
