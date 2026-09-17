@@ -1,0 +1,9 @@
+ESMERALDA V31 — VENTURE STUDIO SALES REFINEMENT
+
+What changed:
+- Further reduced Venture Studio typography to avoid oversized copy blocks and improve readability.
+- Reduced vertical padding and layout density to create more negative space.
+- Increased contrast in dark sections using Esmeralda off-white tones.
+- Updated the "IP" label in the "Dónde estás ahora" section to "Intellectual Property".
+- Strengthened dark-section readability for category strips and question cards.
+- Updated site version marker to esmeralda-v31-venture-studio-sales-refinement.

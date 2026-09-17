@@ -1,0 +1,9 @@
+ESMERALDA V30 — VENTURE STUDIO UX REFINEMENT
+
+Changes:
+- Reduced display typography and section headline sizes across Venture Studio pages.
+- Reworked the hero right-hand card to a clearer value proposition panel.
+- Added Creative pillar with creative copywriting and script creation.
+- Refined the Studio System into more readable card-based stages.
+- Increased whitespace and improved scanability for better UX and sales clarity.
+- Updated site version marker to esmeralda-v30-venture-studio-ux-refinement.
