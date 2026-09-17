@@ -1,0 +1,12 @@
+ESMERALDA V32 — VENTURE STUDIO MOBILE UX
+
+Mobile corrections:
+- Keeps hero copy first on mobile instead of showing the large right panel first.
+- Compacts the hero visual card for phone screens.
+- Converts the product-to-company flow into a cleaner 2-column mobile layout.
+- Reduces mobile typography, padding and card heights.
+- Hides the vertical ESMERALDA / STUDIO label on mobile to reduce visual noise.
+- Keeps dark-section contrast fixes from V32.
+- Maintains the Intellectual Property label in the “Dónde estás ahora / Where are you now” section.
+
+Version marker: esmeralda-v32-venture-studio-mobile-ux

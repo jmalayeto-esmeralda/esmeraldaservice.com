@@ -1,0 +1,8 @@
+ESMERALDA V32 — VENTURE STUDIO DARK CONTRAST POLISH
+
+Corrections included:
+- Fixed dark green text that escaped inside dark sections.
+- Added explicit off-white override for italic/emphasis text in dark sections.
+- Replaced the closing line with a cleaner, readable sentence: “Entonces construimos con intención.”
+- Improved dark section contrast for focus words and question cards.
+- Updated version marker to esmeralda-v32-venture-studio-dark-contrast-polish.
