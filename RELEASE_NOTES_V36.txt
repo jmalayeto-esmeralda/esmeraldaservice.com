@@ -1,0 +1,11 @@
+ESMERALDA V36 — CONTACT + WHATSAPP + HERO LINE REFINEMENT
+
+Cambios:
+- Se agregó una sección final de contacto / Contáctanos en Venture Studio.
+- Se incorporó el correo jma@esmeraldaservice.com como contacto directo.
+- Se agregó botón flotante de WhatsApp, con comportamiento responsive.
+- Se agregaron CTAs directos de correo y WhatsApp dentro de la sección de contacto.
+- Se añadió enlace de Contacto en la navegación de Venture Studio.
+- Se ajustó el hero para que “Tienes algo bueno.” y “Que no se quede pequeño.” se mantengan como dos líneas independientes en desktop.
+- Se mantiene el SEO Venezuela de V34 y el refinamiento UX de V35.
+- Marcador de versión: esmeralda-v36-contact-whatsapp-hero-lines
