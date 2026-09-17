@@ -1,0 +1,13 @@
+ESMERALDA V38 — MINIMAL CONTACT + ORIGINAL WHATSAPP PALETTE
+
+Cambios:
+- Sección de contacto Venture Studio simplificada.
+- Ahora solo dice “Contáctanos” / “Contact us”.
+- Se eliminaron textos adicionales, correo visible, teléfono visible y notas explicativas de esa sección.
+- Se agregaron dos botones circulares minimalistas:
+  1) ícono de WhatsApp;
+  2) ícono de correo.
+- Cada ícono dirige al canal correspondiente.
+- El botón flotante de WhatsApp vuelve a la paleta original verde WhatsApp.
+- Se mantiene V37: hero apilado, recuadro debajo del texto, SEO y estructura bilingüe.
+- Versión interna: esmeralda-v38-minimal-contact-whatsapp-original.
