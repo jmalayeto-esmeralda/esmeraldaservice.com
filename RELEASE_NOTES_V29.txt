@@ -1,0 +1,10 @@
+ESMERALDA V29 — VENTURE STUDIO LANDING
+
+Main changes:
+- Added /venture-studio/ Spanish landing page.
+- Added /en/venture-studio/ English landing page.
+- Added Venture Studio navigation entry from the main ES/EN home pages.
+- Built the page around the brief: product → brand → business → scale, Venture Diagnostic, Studio System, Selected Work, Start a Project form.
+- Added analytics-ready data-event attributes for core conversion actions.
+- Updated sitemap with bilingual Venture Studio URLs.
+- Preserved GitHub Pages compatibility, Web3Forms, SEO structure, team photos and existing home page.

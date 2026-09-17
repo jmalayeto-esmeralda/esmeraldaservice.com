@@ -54,4 +54,23 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://esmeraldaservice.com/en/legal/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://esmeraldaservice.com/legal/" />
   </url>
+
+  <url>
+    <loc>https://esmeraldaservice.com/venture-studio/</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.90</priority>
+    <xhtml:link rel="alternate" hreflang="es-VE" href="https://esmeraldaservice.com/venture-studio/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://esmeraldaservice.com/en/venture-studio/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esmeraldaservice.com/venture-studio/" />
+  </url>
+  <url>
+    <loc>https://esmeraldaservice.com/en/venture-studio/</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.88</priority>
+    <xhtml:link rel="alternate" hreflang="es-VE" href="https://esmeraldaservice.com/venture-studio/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://esmeraldaservice.com/en/venture-studio/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esmeraldaservice.com/venture-studio/" />
+  </url>
 </urlset>
