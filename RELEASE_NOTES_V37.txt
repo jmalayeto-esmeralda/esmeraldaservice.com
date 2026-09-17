@@ -1,0 +1,11 @@
+ESMERALDA V37 — HERO STACK + CONTACT ICONS
+
+Cambios:
+- Hero Venture Studio reorganizado: el texto queda arriba y el cuadro visual pasa una línea más abajo.
+- Evita que el recuadro lateral se reduzca por competir con el ancho del texto.
+- Mantiene las dos líneas del hero: “Tienes algo bueno.” / “Que no se quede pequeño.”
+- Contacto refinado: sección “Contáctanos” con dos botones grandes, uno para WhatsApp y otro para correo.
+- Botones con íconos SVG en la paleta Esmeralda.
+- Agregado Contact en el menú de la versión inglesa.
+- WhatsApp flotante armonizado con la paleta Esmeralda.
+- Versión interna: esmeralda-v37-hero-stack-contact-icons.
