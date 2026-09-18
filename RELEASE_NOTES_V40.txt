@@ -1,0 +1,12 @@
+V40 — Mobile hero and focus-pill refinement
+
+What changed
+- Reduced mobile hero headline size in ES and EN so both opening lines fit within the viewport.
+- Preserved one-sentence-per-line structure in the hero while avoiding overflow on narrow screens.
+- Improved focus/category pills so text stays centered inside each figure.
+- Added a 1-column fallback for very narrow phones to avoid cramped pill layouts.
+- Added a 1-column fallback for the product board on very small devices for cleaner spacing.
+
+Files updated
+- /venture-studio/index.html
+- /en/venture-studio/index.html
