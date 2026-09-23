@@ -1,0 +1,7 @@
+ESMERALDA V43 — CORPORATE SERVICES POLISH
+
+Changes:
+- Spanish Corporate Services page: replaced "montar" with "hacer" in the process headline.
+- Contact section: adjusted WhatsApp icon alignment inside the circular button.
+- Applied the same icon alignment refinement to the English Corporate Services page for consistency.
+- Version marker: esmeralda-v43-corporate-services-polish.
