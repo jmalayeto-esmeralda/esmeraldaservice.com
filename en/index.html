@@ -9,7 +9,7 @@
 <meta name="author" content="Esmeralda Service">
 <meta name="theme-color" content="#526863">
 <meta name="application-name" content="Esmeralda Service">
-<meta name="site-version" content="esmeralda-v41-corporate-services-landing">
+<meta name="site-version" content="esmeralda-v42-nav-corporate-venture-fix">
 <meta property="og:title" content="Esmeralda Service — Legal strategy in Venezuela for companies and investors">
 <meta property="og:description" content="Boutique legal counsel in Caracas for companies, investors and family offices: corporate structuring, market entry, due diligence, compliance, tax, labor, IP, disputes and business strategy in Venezuela.">
 <meta property="og:url" content="https://esmeraldaservice.com/en/">
@@ -743,6 +743,22 @@ footer{background:#F8F5EF;border-top:1px solid var(--border-2);padding:56px 52px
 @media(max-width:900px){.team-avatar{height:300px!important}}
 @media(max-width:640px){.team-avatar{height:260px!important}}
 
+
+/* V42 main navigation refinement */
+.nav-center{gap:18px;flex-wrap:nowrap}
+.nav-center a{white-space:nowrap;font-size:10.8px;letter-spacing:1.55px}
+.nav-product-link{color:#315D52!important;font-weight:600}
+.nav-product-link:hover{color:#B88A5A!important}
+.nav-studio-link{white-space:nowrap}
+@media(max-width:1180px){
+  .nav-center{gap:14px}
+  .nav-center a{font-size:10.2px;letter-spacing:1.25px}
+  .nav-wa{padding:10px 15px}
+}
+@media(max-width:1080px){
+  .nav-center{display:none}
+}
+
 </style>
 </head>
 <body>
@@ -756,8 +772,8 @@ footer{background:#F8F5EF;border-top:1px solid var(--border-2);padding:56px 52px
   <ul class="nav-center" id="navLinks">
     <li><a href="#mercado">Venezuela</a></li>
     <li><a href="#servicios">Services</a></li>
-    <li><a class="nav-studio-link" href="/en/venture-studio/">Venture Studio ↗</a></li>
-    <li><a class="nav-studio-link" href="/en/corporate-services/">Corporate Services ↗</a></li>
+    <li><a class="nav-product-link" href="/en/corporate-services/">Corporate Services</a></li>
+    <li><a class="nav-product-link" href="/en/venture-studio/">Venture Studio</a></li>
     <li><a href="#equipo">Team</a></li>
     <li><a href="#proceso">Process</a></li>
     <li><a href="#contacto">Contact</a></li>

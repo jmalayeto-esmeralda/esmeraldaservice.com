@@ -1,0 +1,9 @@
+ESMERALDA V42 — NAV CORPORATE / VENTURE FIX
+
+Changes:
+- Main navigation order corrected: Corporate Services now appears before Venture Studio.
+- Removed oversized pill styling from those two main navigation items.
+- Added nowrap and tighter desktop spacing to prevent the links from breaking into two lines.
+- Added a safer breakpoint so the full nav hides before it becomes cramped.
+- Maintains V41 Corporate Services landing pages and V40 mobile fixes.
+- Version marker: esmeralda-v42-nav-corporate-venture-fix.
