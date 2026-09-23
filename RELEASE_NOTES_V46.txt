@@ -1,0 +1,11 @@
+ESMERALDA V46 — PRODUCT HEADER POLISH
+
+Changes:
+- Venture Studio EN: cleaned desktop nav so it stays in one line.
+- Venture Studio ES: fixed distorted wordmark after gemstone removal.
+- Corporate Services ES: fixed distorted wordmark after gemstone removal.
+- Corporate Services EN: removed gemstone from the header.
+- Product pages now use the typographic Esmeralda wordmark as the primary brand element.
+- Removed redundant top “Start a project” pill from Venture Studio nav to prevent wrapping; floating WhatsApp and section CTAs remain.
+- Maintains V45 homepage header cleanup and V44 interconnected UX.
+- Version marker: esmeralda-v46-product-header-polish.
