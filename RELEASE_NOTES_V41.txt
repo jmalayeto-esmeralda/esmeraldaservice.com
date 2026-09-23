@@ -1,0 +1,12 @@
+ESMERALDA V41 — CORPORATE SERVICES LANDING
+
+New pages:
+- /corporate-services/
+- /en/corporate-services/
+
+Changes:
+- Adds Esmeralda Corporate Services as a new product vertical.
+- Adds modules, packages, Venezuela Desk, use cases, process, control standard, FAQ and contact CTA.
+- Updates sitemap.xml.
+- Adds navigation references in the main site and Venture Studio pages.
+- Version marker: esmeralda-v41-corporate-services-landing.
