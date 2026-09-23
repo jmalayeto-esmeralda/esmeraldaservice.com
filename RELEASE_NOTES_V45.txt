@@ -1,0 +1,14 @@
+Esmeralda V45 — Header simplification and brand cleanup
+
+What changed
+- Removed the gemstone icon from the Spanish header lockups.
+- Kept the typographic Esmeralda wordmark as the primary brand element in the Spanish navigation.
+- Removed the top navigation WhatsApp button from both homepage versions (ES / EN).
+- Preserved the floating WhatsApp button as the main quick-contact action.
+- Tightened header spacing after removing redundant elements for a cleaner, more editorial navigation.
+
+Files updated
+- /index.html
+- /en/index.html
+- /corporate-services/index.html
+- /venture-studio/index.html
