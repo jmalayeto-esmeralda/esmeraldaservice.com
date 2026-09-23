@@ -1,0 +1,11 @@
+ESMERALDA V44 — INTERCONNECTED UX ARCHITECTURE
+
+Changes:
+- Main Market Entry CTA now links to Corporate Services.
+- Business Structuring & Strategy now offers related paths to Corporate Services and Venture Studio.
+- Corporate Services now includes a bridge section to Venture Studio: brand, web/ecommerce/Shopify, product/story/growth.
+- Corporate Services also links back to legal services.
+- Venture Studio Legal + IP now links to Corporate Services.
+- Venture Studio diagnostic now adds Corporate Services and Legal Services paths when a project needs company, banking, administration, compliance or legal support.
+- Applies ES/EN updates.
+- Version marker: esmeralda-v44-interconnected-ux.
