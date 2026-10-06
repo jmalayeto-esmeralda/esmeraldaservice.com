@@ -1,0 +1,13 @@
+ESMERALDA V47 — TEAM WHATSAPP BUTTONS
+
+Changes:
+- Added direct WhatsApp buttons in the Team section:
+  - Chatea con Mauricio / Chat with Mauricio → +58 412-606-4717
+  - Chatea con José / Chat with José → +58 412-217-9467
+- Floating WhatsApp button remains unchanged as the general site contact channel.
+- Added professional registration line under Mauricio’s profile:
+  - Colegio de Abogados de Caracas — Habilitado
+  - Caracas Bar Association — Admitted
+- Kept José’s professional registration line and added the direct WhatsApp CTA before LinkedIn.
+- Applied changes in Spanish and English homepages.
+- Version marker: esmeralda-v47-team-whatsapp-buttons.
