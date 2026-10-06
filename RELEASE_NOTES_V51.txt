@@ -1,0 +1,10 @@
+ESMERALDA V51 — JOSE PROFILE UPDATE
+
+Changes:
+- Updated José Manuel Alayeto Pinzón profile to balance the enhanced Mauricio profile.
+- Added stronger emphasis on corporate + tax experience developed through Amicorp and Esmeralda.
+- Added active position: Director Principal at AGROFINCA Sociedad de Corretaje Agrícola.
+- Added/updated prior positions: Amicorp International, TeCreemos Banco Comunal, Esmeralda Wealth Management and Rodríguez & Mendoza/Taxand.
+- Updated profile headline and expertise tags in Spanish and English.
+- Maintains V50 Mauricio profile update, V49 restored Mauricio photo and V47 partner WhatsApp buttons.
+- Version marker: esmeralda-v51-jose-profile-update.
