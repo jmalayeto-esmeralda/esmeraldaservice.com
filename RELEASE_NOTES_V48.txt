@@ -1,0 +1,17 @@
+ESMERALDA V48 — MAURICIO PROFILE UPDATE
+
+Changes:
+- Updated Mauricio Tancredi Vegas profile in the Team section.
+- Added stronger emphasis on corporate, financial, labor, tax, capital markets, international structures and regulatory experience.
+- Reflected selected relevant roles from his CV:
+  - Tancredi Vegas & Asociados
+  - Corporate and financial advisory
+  - International structures and investment protection
+  - Import/trading executive experience
+  - Capital markets / brokerage
+  - Vehicle financing
+  - Asset securitization
+- Updated Spanish and English versions.
+- Updated Mauricio role headline and expertise tags.
+- Maintained V47 WhatsApp partner buttons and Caracas Bar admission note.
+- Version marker: esmeralda-v48-mauricio-profile-update.
