@@ -1,0 +1,10 @@
+ESMERALDA V50 — MAURICIO / INTERGLOBAL PROFILE REFINEMENT
+
+Changes:
+- Refined Mauricio’s bio to mention more relevant current and past positions with less detail.
+- Added Tancredi Vegas & Asociados and Esmeralda Services LLC.
+- Added Interglobal Casa de Bolsa, Soluciones Carcred and Interglobal Sociedad Titularizadora.
+- Added a contextual one-way link from Mauricio’s bio to https://interglobalcdb.com/.
+- Added/updated expertise tags: Capital Markets / Mercado de Capitales and Securitization / Titularización.
+- Maintains restored Mauricio photo, partner WhatsApp buttons, and bar admission note.
+- Version marker: esmeralda-v50-mauricio-interglobal-profile.
