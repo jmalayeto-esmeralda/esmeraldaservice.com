@@ -1,0 +1,8 @@
+ESMERALDA V49 — RESTORE MAURICIO PHOTO
+
+Changes:
+- Restores Mauricio Tancredi Vegas photo display in the Team section.
+- Adds a CSS background-image fallback to the Mauricio avatar block.
+- Adds cache-busting to the Mauricio photo src using ?v=49.
+- Keeps the V48 Mauricio profile update and V47 direct WhatsApp buttons.
+- Version marker: esmeralda-v49-restore-mauricio-photo.
