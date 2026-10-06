@@ -1,0 +1,140 @@
+{
+  "version": "esmeralda-v52-seo-sprint-company-formation",
+  "checked_at": "2026-10-06",
+  "source_zip": "/mnt/data/esmeralda-v51-jose-profile-update.zip",
+  "key_files_present": {
+    "index.html": true,
+    "en/index.html": true,
+    "corporate-services/index.html": true,
+    "en/corporate-services/index.html": true,
+    "venture-studio/index.html": true,
+    "en/venture-studio/index.html": true,
+    "gracias/index.html": true,
+    "en/thank-you/index.html": true,
+    "legal/index.html": true,
+    "privacy/index.html": true,
+    "404.html": true,
+    "robots.txt": true,
+    "sitemap.xml": true,
+    "CNAME": true,
+    ".nojekyll": true
+  },
+  "new_pages": {
+    "en/company-formation-venezuela/index.html": true,
+    "constitucion-empresas-venezuela/index.html": true
+  },
+  "metadata": {
+    "index.html": {
+      "title": true,
+      "description": true,
+      "canonical": true,
+      "hreflang": true,
+      "og_title": true,
+      "og_description": true,
+      "og_url": true,
+      "og_image": true,
+      "json_ld": true,
+      "viewport": true
+    },
+    "en/index.html": {
+      "title": true,
+      "description": true,
+      "canonical": true,
+      "hreflang": true,
+      "og_title": true,
+      "og_description": true,
+      "og_url": true,
+      "og_image": true,
+      "json_ld": true,
+      "viewport": true
+    },
+    "corporate-services/index.html": {
+      "title": true,
+      "description": true,
+      "canonical": true,
+      "hreflang": true,
+      "og_title": true,
+      "og_description": true,
+      "og_url": true,
+      "og_image": true,
+      "json_ld": true,
+      "viewport": true
+    },
+    "en/corporate-services/index.html": {
+      "title": true,
+      "description": true,
+      "canonical": true,
+      "hreflang": true,
+      "og_title": true,
+      "og_description": true,
+      "og_url": true,
+      "og_image": true,
+      "json_ld": true,
+      "viewport": true
+    },
+    "en/company-formation-venezuela/index.html": {
+      "title": true,
+      "description": true,
+      "canonical": true,
+      "hreflang": true,
+      "og_title": true,
+      "og_description": true,
+      "og_url": true,
+      "og_image": true,
+      "json_ld": true,
+      "viewport": true
+    },
+    "constitucion-empresas-venezuela/index.html": {
+      "title": true,
+      "description": true,
+      "canonical": true,
+      "hreflang": true,
+      "og_title": true,
+      "og_description": true,
+      "og_url": true,
+      "og_image": true,
+      "json_ld": true,
+      "viewport": true
+    },
+    "venture-studio/index.html": {
+      "title": true,
+      "description": true,
+      "canonical": true,
+      "hreflang": true,
+      "og_title": true,
+      "og_description": true,
+      "og_url": true,
+      "og_image": true,
+      "json_ld": true,
+      "viewport": true
+    },
+    "en/venture-studio/index.html": {
+      "title": true,
+      "description": true,
+      "canonical": true,
+      "hreflang": true,
+      "og_title": true,
+      "og_description": true,
+      "og_url": true,
+      "og_image": true,
+      "json_ld": true,
+      "viewport": true
+    }
+  },
+  "links": {
+    "internal_href_count": 145,
+    "broken_internal_hrefs": []
+  },
+  "assets": {
+    "asset_references_count": 60,
+    "missing_assets": []
+  },
+  "seo": {
+    "sitemap_has_new_en": true,
+    "sitemap_has_new_es": true,
+    "robots_allows_root": true,
+    "robots_has_sitemap": true
+  },
+  "errors": [],
+  "warnings": []
+}

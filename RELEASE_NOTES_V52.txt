@@ -1,0 +1,21 @@
+ESMERALDA V52 — SEO SPRINT: COMPANY FORMATION
+
+Base:
+- Built from the latest stable production version in this chat: V51.
+
+High-impact SEO updates:
+- Homepage ES/EN SEO titles and meta descriptions updated.
+- Corporate Services ES/EN SEO titles and meta descriptions updated.
+- Created new English landing page:
+  /en/company-formation-venezuela/
+- Created new Spanish landing page:
+  /constitucion-empresas-venezuela/
+- Added canonical, hreflang, Open Graph, Twitter metadata and JSON-LD LegalService/Service/BreadcrumbList for both new pages.
+- Added internal links from Homepage ES/EN to the corresponding company formation landing pages.
+- Added internal links and CTAs from Corporate Services ES/EN to the corresponding landing pages.
+- Added backlinks from new landing pages to Corporate Services and relevant Market Entry sections.
+- Updated sitemap.xml with the two new pages using lastmod 2026-10-06.
+- robots.txt reviewed; no change required.
+
+Version marker:
+- esmeralda-v52-seo-sprint-company-formation

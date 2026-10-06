@@ -85,4 +85,24 @@
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
   </url>
+
+  <url>
+    <loc>https://esmeraldaservice.com/constitucion-empresas-venezuela/</loc>
+    <lastmod>2026-10-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esmeraldaservice.com/constitucion-empresas-venezuela/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://esmeraldaservice.com/en/company-formation-venezuela/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esmeraldaservice.com/constitucion-empresas-venezuela/" />
+  </url>
+  <url>
+    <loc>https://esmeraldaservice.com/en/company-formation-venezuela/</loc>
+    <lastmod>2026-10-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esmeraldaservice.com/constitucion-empresas-venezuela/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://esmeraldaservice.com/en/company-formation-venezuela/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esmeraldaservice.com/constitucion-empresas-venezuela/" />
+  </url>
+
 </urlset>
