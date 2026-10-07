@@ -1,0 +1,784 @@
+{
+  "version": "esmeralda-v53-seo-architecture-expansion",
+  "checked_at": "2026-10-06",
+  "base_version": "esmeralda-v53-seo-architecture-expansion",
+  "result": "PASS",
+  "pages_reviewed": [
+    "index.html",
+    "en/index.html",
+    "corporate-services/index.html",
+    "en/corporate-services/index.html",
+    "constitucion-empresas-venezuela/index.html",
+    "en/company-formation-venezuela/index.html",
+    "entrada-mercado-venezuela/index.html",
+    "en/market-entry-venezuela/index.html",
+    "due-diligence-venezuela/index.html",
+    "en/legal-due-diligence-venezuela/index.html",
+    "insights/index.html",
+    "en/insights/index.html",
+    "venture-studio/index.html",
+    "en/venture-studio/index.html",
+    "privacy/index.html",
+    "en/privacy/index.html",
+    "legal/index.html",
+    "en/legal/index.html",
+    "404.html",
+    "gracias/index.html",
+    "en/thank-you/index.html"
+  ],
+  "total_pages_reviewed": 21,
+  "sitemap_url_count": 18,
+  "broken_links_found": 0,
+  "broken_links": [],
+  "broken_fragments_found": 0,
+  "broken_fragments": [],
+  "canonical_validation": {
+    "index.html": {
+      "has_single_canonical": true,
+      "canonical": "https://esmeraldaservice.com/"
+    },
+    "en/index.html": {
+      "has_single_canonical": true,
+      "canonical": "https://esmeraldaservice.com/en/"
+    },
+    "corporate-services/index.html": {
+      "has_single_canonical": true,
+      "canonical": "https://esmeraldaservice.com/corporate-services/"
+    },
+    "en/corporate-services/index.html": {
+      "has_single_canonical": true,
+      "canonical": "https://esmeraldaservice.com/en/corporate-services/"
+    },
+    "constitucion-empresas-venezuela/index.html": {
+      "has_single_canonical": true,
+      "canonical": "https://esmeraldaservice.com/constitucion-empresas-venezuela/"
+    },
+    "en/company-formation-venezuela/index.html": {
+      "has_single_canonical": true,
+      "canonical": "https://esmeraldaservice.com/en/company-formation-venezuela/"
+    },
+    "entrada-mercado-venezuela/index.html": {
+      "has_single_canonical": true,
+      "canonical": "https://esmeraldaservice.com/entrada-mercado-venezuela/"
+    },
+    "en/market-entry-venezuela/index.html": {
+      "has_single_canonical": true,
+      "canonical": "https://esmeraldaservice.com/en/market-entry-venezuela/"
+    },
+    "due-diligence-venezuela/index.html": {
+      "has_single_canonical": true,
+      "canonical": "https://esmeraldaservice.com/due-diligence-venezuela/"
+    },
+    "en/legal-due-diligence-venezuela/index.html": {
+      "has_single_canonical": true,
+      "canonical": "https://esmeraldaservice.com/en/legal-due-diligence-venezuela/"
+    },
+    "insights/index.html": {
+      "has_single_canonical": true,
+      "canonical": "https://esmeraldaservice.com/insights/"
+    },
+    "en/insights/index.html": {
+      "has_single_canonical": true,
+      "canonical": "https://esmeraldaservice.com/en/insights/"
+    },
+    "venture-studio/index.html": {
+      "has_single_canonical": true,
+      "canonical": "https://esmeraldaservice.com/venture-studio/"
+    },
+    "en/venture-studio/index.html": {
+      "has_single_canonical": true,
+      "canonical": "https://esmeraldaservice.com/en/venture-studio/"
+    },
+    "privacy/index.html": {
+      "has_single_canonical": true,
+      "canonical": "https://esmeraldaservice.com/privacy/"
+    },
+    "en/privacy/index.html": {
+      "has_single_canonical": true,
+      "canonical": "https://esmeraldaservice.com/en/privacy/"
+    },
+    "legal/index.html": {
+      "has_single_canonical": true,
+      "canonical": "https://esmeraldaservice.com/legal/"
+    },
+    "en/legal/index.html": {
+      "has_single_canonical": true,
+      "canonical": "https://esmeraldaservice.com/en/legal/"
+    },
+    "404.html": {
+      "has_single_canonical": true,
+      "canonical": null
+    },
+    "gracias/index.html": {
+      "has_single_canonical": true,
+      "canonical": "https://esmeraldaservice.com/gracias/"
+    },
+    "en/thank-you/index.html": {
+      "has_single_canonical": true,
+      "canonical": "https://esmeraldaservice.com/en/thank-you/"
+    }
+  },
+  "hreflang_validation": {
+    "index.html": {
+      "has_hreflang": true,
+      "values": [
+        "es",
+        "en",
+        "x-default"
+      ],
+      "no_es_ve": true
+    },
+    "en/index.html": {
+      "has_hreflang": true,
+      "values": [
+        "es",
+        "en",
+        "x-default"
+      ],
+      "no_es_ve": true
+    },
+    "corporate-services/index.html": {
+      "has_hreflang": true,
+      "values": [
+        "es",
+        "en",
+        "x-default"
+      ],
+      "no_es_ve": true
+    },
+    "en/corporate-services/index.html": {
+      "has_hreflang": true,
+      "values": [
+        "es",
+        "en",
+        "x-default"
+      ],
+      "no_es_ve": true
+    },
+    "constitucion-empresas-venezuela/index.html": {
+      "has_hreflang": true,
+      "values": [
+        "es",
+        "en",
+        "x-default"
+      ],
+      "no_es_ve": true
+    },
+    "en/company-formation-venezuela/index.html": {
+      "has_hreflang": true,
+      "values": [
+        "es",
+        "en",
+        "x-default"
+      ],
+      "no_es_ve": true
+    },
+    "entrada-mercado-venezuela/index.html": {
+      "has_hreflang": true,
+      "values": [
+        "es",
+        "en",
+        "x-default"
+      ],
+      "no_es_ve": true
+    },
+    "en/market-entry-venezuela/index.html": {
+      "has_hreflang": true,
+      "values": [
+        "es",
+        "en",
+        "x-default"
+      ],
+      "no_es_ve": true
+    },
+    "due-diligence-venezuela/index.html": {
+      "has_hreflang": true,
+      "values": [
+        "es",
+        "en",
+        "x-default"
+      ],
+      "no_es_ve": true
+    },
+    "en/legal-due-diligence-venezuela/index.html": {
+      "has_hreflang": true,
+      "values": [
+        "es",
+        "en",
+        "x-default"
+      ],
+      "no_es_ve": true
+    },
+    "insights/index.html": {
+      "has_hreflang": true,
+      "values": [
+        "es",
+        "en",
+        "x-default"
+      ],
+      "no_es_ve": true
+    },
+    "en/insights/index.html": {
+      "has_hreflang": true,
+      "values": [
+        "es",
+        "en",
+        "x-default"
+      ],
+      "no_es_ve": true
+    },
+    "venture-studio/index.html": {
+      "has_hreflang": true,
+      "values": [
+        "es",
+        "en",
+        "x-default"
+      ],
+      "no_es_ve": true
+    },
+    "en/venture-studio/index.html": {
+      "has_hreflang": true,
+      "values": [
+        "es",
+        "en",
+        "x-default"
+      ],
+      "no_es_ve": true
+    },
+    "privacy/index.html": {
+      "has_hreflang": true,
+      "values": [
+        "es",
+        "en",
+        "x-default"
+      ],
+      "no_es_ve": true
+    },
+    "en/privacy/index.html": {
+      "has_hreflang": true,
+      "values": [
+        "es",
+        "en",
+        "x-default"
+      ],
+      "no_es_ve": true
+    },
+    "legal/index.html": {
+      "has_hreflang": true,
+      "values": [
+        "es",
+        "en",
+        "x-default"
+      ],
+      "no_es_ve": true
+    },
+    "en/legal/index.html": {
+      "has_hreflang": true,
+      "values": [
+        "es",
+        "en",
+        "x-default"
+      ],
+      "no_es_ve": true
+    },
+    "404.html": {
+      "has_hreflang": true,
+      "values": [],
+      "no_es_ve": true
+    },
+    "gracias/index.html": {
+      "has_hreflang": false,
+      "values": [],
+      "no_es_ve": true
+    },
+    "en/thank-you/index.html": {
+      "has_hreflang": false,
+      "values": [],
+      "no_es_ve": true
+    }
+  },
+  "schema_entity_validation": {
+    "corporate-services/index.html": {
+      "json_ld_valid": true,
+      "no_separate_organization_entity": true,
+      "references_legalservice_provider": true,
+      "types": [
+        "WebPage",
+        "Service",
+        "BreadcrumbList"
+      ]
+    },
+    "en/corporate-services/index.html": {
+      "json_ld_valid": true,
+      "no_separate_organization_entity": true,
+      "references_legalservice_provider": true,
+      "types": [
+        "WebPage",
+        "Service",
+        "BreadcrumbList"
+      ]
+    },
+    "constitucion-empresas-venezuela/index.html": {
+      "json_ld_valid": true,
+      "no_separate_organization_entity": true,
+      "references_legalservice_provider": true,
+      "types": [
+        "WebPage",
+        "Service",
+        "BreadcrumbList"
+      ]
+    },
+    "en/company-formation-venezuela/index.html": {
+      "json_ld_valid": true,
+      "no_separate_organization_entity": true,
+      "references_legalservice_provider": true,
+      "types": [
+        "WebPage",
+        "Service",
+        "BreadcrumbList"
+      ]
+    },
+    "entrada-mercado-venezuela/index.html": {
+      "json_ld_valid": true,
+      "no_separate_organization_entity": true,
+      "references_legalservice_provider": true,
+      "types": [
+        "WebPage",
+        "Service",
+        "BreadcrumbList"
+      ]
+    },
+    "en/market-entry-venezuela/index.html": {
+      "json_ld_valid": true,
+      "no_separate_organization_entity": true,
+      "references_legalservice_provider": true,
+      "types": [
+        "WebPage",
+        "Service",
+        "BreadcrumbList"
+      ]
+    },
+    "due-diligence-venezuela/index.html": {
+      "json_ld_valid": true,
+      "no_separate_organization_entity": true,
+      "references_legalservice_provider": true,
+      "types": [
+        "WebPage",
+        "Service",
+        "BreadcrumbList"
+      ]
+    },
+    "en/legal-due-diligence-venezuela/index.html": {
+      "json_ld_valid": true,
+      "no_separate_organization_entity": true,
+      "references_legalservice_provider": true,
+      "types": [
+        "WebPage",
+        "Service",
+        "BreadcrumbList"
+      ]
+    },
+    "venture-studio/index.html": {
+      "json_ld_valid": true,
+      "no_separate_organization_entity": true,
+      "references_legalservice_provider": true,
+      "types": [
+        "WebPage",
+        "Service",
+        "BreadcrumbList"
+      ]
+    },
+    "en/venture-studio/index.html": {
+      "json_ld_valid": true,
+      "no_separate_organization_entity": true,
+      "references_legalservice_provider": true,
+      "types": [
+        "WebPage",
+        "Service",
+        "BreadcrumbList"
+      ]
+    },
+    "insights/index.html": {
+      "json_ld_valid": true,
+      "no_separate_organization_entity": true,
+      "references_legalservice_provider": true,
+      "types": [
+        "CollectionPage",
+        "BreadcrumbList"
+      ]
+    },
+    "en/insights/index.html": {
+      "json_ld_valid": true,
+      "no_separate_organization_entity": true,
+      "references_legalservice_provider": true,
+      "types": [
+        "CollectionPage",
+        "BreadcrumbList"
+      ]
+    }
+  },
+  "new_landing_validation": {
+    "entrada-mercado-venezuela/index.html": {
+      "exists": true,
+      "has_title": true,
+      "has_description": true,
+      "has_og": true,
+      "has_twitter": true,
+      "has_json_ld": true,
+      "has_whatsapp": true,
+      "email_cta_present": true,
+      "email_cta_required": true,
+      "has_footer": true
+    },
+    "en/market-entry-venezuela/index.html": {
+      "exists": true,
+      "has_title": true,
+      "has_description": true,
+      "has_og": true,
+      "has_twitter": true,
+      "has_json_ld": true,
+      "has_whatsapp": true,
+      "email_cta_present": true,
+      "email_cta_required": true,
+      "has_footer": true
+    },
+    "due-diligence-venezuela/index.html": {
+      "exists": true,
+      "has_title": true,
+      "has_description": true,
+      "has_og": true,
+      "has_twitter": true,
+      "has_json_ld": true,
+      "has_whatsapp": true,
+      "email_cta_present": true,
+      "email_cta_required": true,
+      "has_footer": true
+    },
+    "en/legal-due-diligence-venezuela/index.html": {
+      "exists": true,
+      "has_title": true,
+      "has_description": true,
+      "has_og": true,
+      "has_twitter": true,
+      "has_json_ld": true,
+      "has_whatsapp": true,
+      "email_cta_present": true,
+      "email_cta_required": true,
+      "has_footer": true
+    },
+    "insights/index.html": {
+      "exists": true,
+      "has_title": true,
+      "has_description": true,
+      "has_og": true,
+      "has_twitter": true,
+      "has_json_ld": true,
+      "has_whatsapp": true,
+      "email_cta_present": false,
+      "email_cta_required": false,
+      "has_footer": true
+    },
+    "en/insights/index.html": {
+      "exists": true,
+      "has_title": true,
+      "has_description": true,
+      "has_og": true,
+      "has_twitter": true,
+      "has_json_ld": true,
+      "has_whatsapp": true,
+      "email_cta_present": false,
+      "email_cta_required": false,
+      "has_footer": true
+    },
+    "constitucion-empresas-venezuela/index.html": {
+      "exists": true,
+      "has_title": true,
+      "has_description": true,
+      "has_og": true,
+      "has_twitter": true,
+      "has_json_ld": true,
+      "has_whatsapp": true,
+      "email_cta_present": true,
+      "email_cta_required": true,
+      "has_footer": true
+    },
+    "en/company-formation-venezuela/index.html": {
+      "exists": true,
+      "has_title": true,
+      "has_description": true,
+      "has_og": true,
+      "has_twitter": true,
+      "has_json_ld": true,
+      "has_whatsapp": true,
+      "email_cta_present": true,
+      "email_cta_required": true,
+      "has_footer": true
+    }
+  },
+  "mobile_responsive_checks": {
+    "index.html": {
+      "viewport_meta": true,
+      "media_queries_present": true
+    },
+    "en/index.html": {
+      "viewport_meta": true,
+      "media_queries_present": true
+    },
+    "corporate-services/index.html": {
+      "viewport_meta": true,
+      "media_queries_present": true
+    },
+    "en/corporate-services/index.html": {
+      "viewport_meta": true,
+      "media_queries_present": true
+    },
+    "constitucion-empresas-venezuela/index.html": {
+      "viewport_meta": true,
+      "media_queries_present": true
+    },
+    "en/company-formation-venezuela/index.html": {
+      "viewport_meta": true,
+      "media_queries_present": true
+    },
+    "entrada-mercado-venezuela/index.html": {
+      "viewport_meta": true,
+      "media_queries_present": true
+    },
+    "en/market-entry-venezuela/index.html": {
+      "viewport_meta": true,
+      "media_queries_present": true
+    },
+    "due-diligence-venezuela/index.html": {
+      "viewport_meta": true,
+      "media_queries_present": true
+    },
+    "en/legal-due-diligence-venezuela/index.html": {
+      "viewport_meta": true,
+      "media_queries_present": true
+    },
+    "insights/index.html": {
+      "viewport_meta": true,
+      "media_queries_present": true
+    },
+    "en/insights/index.html": {
+      "viewport_meta": true,
+      "media_queries_present": true
+    },
+    "venture-studio/index.html": {
+      "viewport_meta": true,
+      "media_queries_present": true
+    },
+    "en/venture-studio/index.html": {
+      "viewport_meta": true,
+      "media_queries_present": true
+    },
+    "privacy/index.html": {
+      "viewport_meta": true,
+      "media_queries_present": true
+    },
+    "en/privacy/index.html": {
+      "viewport_meta": true,
+      "media_queries_present": true
+    },
+    "legal/index.html": {
+      "viewport_meta": true,
+      "media_queries_present": true
+    },
+    "en/legal/index.html": {
+      "viewport_meta": true,
+      "media_queries_present": true
+    },
+    "404.html": {
+      "viewport_meta": true,
+      "media_queries_present": true
+    },
+    "gracias/index.html": {
+      "viewport_meta": true,
+      "media_queries_present": true
+    },
+    "en/thank-you/index.html": {
+      "viewport_meta": true,
+      "media_queries_present": true
+    }
+  },
+  "asset_validation": {
+    "asset_references": 84,
+    "missing_assets_count": 0,
+    "missing_assets": []
+  },
+  "target_blank_rel_validation": {
+    "bad_target_blank_count": 0,
+    "bad_target_blank_links": []
+  },
+  "accessibility_html_quality": {
+    "index.html": {
+      "h1_count": 1,
+      "single_h1": true,
+      "duplicate_ids": [],
+      "images_have_alt": true,
+      "external_blank_noopener": true
+    },
+    "en/index.html": {
+      "h1_count": 1,
+      "single_h1": true,
+      "duplicate_ids": [],
+      "images_have_alt": true,
+      "external_blank_noopener": true
+    },
+    "corporate-services/index.html": {
+      "h1_count": 1,
+      "single_h1": true,
+      "duplicate_ids": [],
+      "images_have_alt": true,
+      "external_blank_noopener": true
+    },
+    "en/corporate-services/index.html": {
+      "h1_count": 1,
+      "single_h1": true,
+      "duplicate_ids": [],
+      "images_have_alt": true,
+      "external_blank_noopener": true
+    },
+    "constitucion-empresas-venezuela/index.html": {
+      "h1_count": 1,
+      "single_h1": true,
+      "duplicate_ids": [],
+      "images_have_alt": true,
+      "external_blank_noopener": true
+    },
+    "en/company-formation-venezuela/index.html": {
+      "h1_count": 1,
+      "single_h1": true,
+      "duplicate_ids": [],
+      "images_have_alt": true,
+      "external_blank_noopener": true
+    },
+    "entrada-mercado-venezuela/index.html": {
+      "h1_count": 1,
+      "single_h1": true,
+      "duplicate_ids": [],
+      "images_have_alt": true,
+      "external_blank_noopener": true
+    },
+    "en/market-entry-venezuela/index.html": {
+      "h1_count": 1,
+      "single_h1": true,
+      "duplicate_ids": [],
+      "images_have_alt": true,
+      "external_blank_noopener": true
+    },
+    "due-diligence-venezuela/index.html": {
+      "h1_count": 1,
+      "single_h1": true,
+      "duplicate_ids": [],
+      "images_have_alt": true,
+      "external_blank_noopener": true
+    },
+    "en/legal-due-diligence-venezuela/index.html": {
+      "h1_count": 1,
+      "single_h1": true,
+      "duplicate_ids": [],
+      "images_have_alt": true,
+      "external_blank_noopener": true
+    },
+    "insights/index.html": {
+      "h1_count": 1,
+      "single_h1": true,
+      "duplicate_ids": [],
+      "images_have_alt": true,
+      "external_blank_noopener": true
+    },
+    "en/insights/index.html": {
+      "h1_count": 1,
+      "single_h1": true,
+      "duplicate_ids": [],
+      "images_have_alt": true,
+      "external_blank_noopener": true
+    },
+    "venture-studio/index.html": {
+      "h1_count": 1,
+      "single_h1": true,
+      "duplicate_ids": [],
+      "images_have_alt": true,
+      "external_blank_noopener": true
+    },
+    "en/venture-studio/index.html": {
+      "h1_count": 1,
+      "single_h1": true,
+      "duplicate_ids": [],
+      "images_have_alt": true,
+      "external_blank_noopener": true
+    },
+    "privacy/index.html": {
+      "h1_count": 1,
+      "single_h1": true,
+      "duplicate_ids": [],
+      "images_have_alt": true,
+      "external_blank_noopener": true
+    },
+    "en/privacy/index.html": {
+      "h1_count": 1,
+      "single_h1": true,
+      "duplicate_ids": [],
+      "images_have_alt": true,
+      "external_blank_noopener": true
+    },
+    "legal/index.html": {
+      "h1_count": 1,
+      "single_h1": true,
+      "duplicate_ids": [],
+      "images_have_alt": true,
+      "external_blank_noopener": true
+    },
+    "en/legal/index.html": {
+      "h1_count": 1,
+      "single_h1": true,
+      "duplicate_ids": [],
+      "images_have_alt": true,
+      "external_blank_noopener": true
+    },
+    "404.html": {
+      "h1_count": 1,
+      "single_h1": true,
+      "duplicate_ids": [],
+      "images_have_alt": true,
+      "external_blank_noopener": true
+    },
+    "gracias/index.html": {
+      "h1_count": 1,
+      "single_h1": true,
+      "duplicate_ids": [],
+      "images_have_alt": true,
+      "external_blank_noopener": true
+    },
+    "en/thank-you/index.html": {
+      "h1_count": 1,
+      "single_h1": true,
+      "duplicate_ids": [],
+      "images_have_alt": true,
+      "external_blank_noopener": true
+    }
+  },
+  "robots_validation": {
+    "allows_general_crawl": true,
+    "blocks_thank_you_pages": true,
+    "references_sitemap": true
+  },
+  "insights_contact_anchor_fix": {
+    "es_no_broken_hash_contacto": true,
+    "es_contact_links_to_home": true,
+    "en_no_broken_hash_contacto": true,
+    "en_contact_links_to_home": true,
+    "en_jsonld_ampersand_corrected": true,
+    "en_html_title_keeps_amp_entity": true
+  },
+  "errors": [],
+  "warnings": [],
+  "sitemap_validation": {
+    "url_count": 18,
+    "required_urls_present": true,
+    "missing_required_urls": [],
+    "no_es_ve": true,
+    "lastmod_2026_10_06_count": 12
+  }
+}

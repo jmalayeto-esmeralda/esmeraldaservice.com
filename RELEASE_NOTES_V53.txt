@@ -1,0 +1,39 @@
+ESMERALDA V53 — SEO ARCHITECTURE EXPANSION
+
+Base:
+- Built exclusively from V52: esmeralda-v52-seo-sprint-company-formation.
+
+New pages:
+- /entrada-mercado-venezuela/
+- /en/market-entry-venezuela/
+- /due-diligence-venezuela/
+- /en/legal-due-diligence-venezuela/
+- /insights/
+- /en/insights/
+
+Main changes:
+- Added Market Entry ES/EN landing pages.
+- Added Legal Due Diligence ES/EN landing pages.
+- Added Insights ES/EN executive hub foundation.
+- Expanded internal linking between Homepage, Corporate Services, Company Formation, Market Entry and Due Diligence.
+- Normalized service-page structured data to reference the single institutional provider:
+  https://esmeraldaservice.com/#legalservice
+- Normalized hreflang to es / en / x-default.
+- Updated sitemap.xml with V53 pages and lastmod 2026-10-06 for modified indexable pages.
+- Preserved V52 design, responsive UX, assets, GitHub Pages structure, floating WhatsApp and existing paths.
+
+QA:
+- Result: PASS
+- Pages reviewed: 21
+- Sitemap URLs: 18
+- Broken internal links: 0
+
+Version marker:
+- esmeralda-v53-seo-architecture-expansion
+
+Post-review corrections applied to V53:
+- Fixed Insights contact links to point to homepage contact sections.
+- Corrected English Insights JSON-LD ampersand value.
+- Added rel="noopener" where required for target="_blank" links.
+- Updated homepage footer Market Entry links and added Insights to Firm/Firma column.
+- Regenerated QA_REPORT_V53.json with fragment/id validation and target blank rel validation.
