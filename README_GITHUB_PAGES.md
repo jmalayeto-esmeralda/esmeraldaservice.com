@@ -1,4 +1,4 @@
-# Esmeralda Servicios Legales — GitHub Pages Ready
+# Esmeralda Legal Services — GitHub Pages Ready
 
 Esta carpeta está preparada para publicar `esmeraldaservice.com` en GitHub Pages.
 
@@ -8,7 +8,7 @@ Esta carpeta está preparada para publicar `esmeraldaservice.com` en GitHub Page
 - `.nojekyll`: evita procesamiento Jekyll innecesario.
 - `404.html`: página simple de error.
 - `robots.txt` y `sitemap.xml`: listos para SEO.
-- `index.html` y `/en/index.html`: home ES/EN.
+- `index.html` y `/en/`: home ES/EN.
 - El formulario sigue usando Web3Forms.
 
 ## No tocar en DNS

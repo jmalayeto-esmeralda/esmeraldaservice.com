@@ -1,0 +1,64 @@
+ESMERALDA V54 — BRAND SYSTEM & TRUST CLEANUP
+
+Base:
+- Built exclusively from V53: esmeralda-v53-seo-architecture-expansion.
+- Preserves V52/V53 SEO architecture, slugs, canonicals, hreflang strategy, sitemap structure, robots, GitHub Pages architecture and existing service landing pages.
+
+Brand architecture:
+- Masterbrand: Esmeralda.
+- Legal practice: Esmeralda Legal Services.
+- Venture vertical: Esmeralda Venture Studio.
+- Masterbrand and vertical lockups added as approved PNG assets:
+  - /assets/esmeralda.png
+  - /assets/esmeralda-legal-services.png
+  - /assets/esmeralda-venture-studio.png
+
+Logo integration:
+- Legal pages now use the Esmeralda Legal Services lockup.
+- Venture Studio pages now use the Esmeralda Venture Studio lockup.
+- New OG images generated from the approved lockups:
+  - /assets/og-esmeralda-legal-services-v54.png
+  - /assets/og-esmeralda-venture-studio-v54.png
+
+Naming cleanup:
+- Public commercial name normalized to Esmeralda Legal Services.
+- Esmeralda Services LLC preserved only where it refers to the real legal entity in Mauricio’s bio.
+- Esmeralda Service, Esmeralda Servicios Legales and Esmeralda - Firma Legal removed as current brand names.
+- Corporate Services treated as a practice/solution, not a separate institutional brand.
+
+Trust and claims cleanup:
+- Removed Global Network / Red Global claims.
+- Replaced broad international network language with cross-border coordination language.
+- Structured data areaServed narrowed to Venezuela for the institutional legal service entity.
+
+Homepage updates:
+- Insights band now points to Esmeralda Insights as original website publication.
+- LinkedIn retained as a secondary distribution channel.
+- Footer reorganized around Capabilities, Solutions and Firm.
+- WhatsApp message updated to strategic consultation, removing free/gratuita language.
+
+Contact/form cleanup:
+- Contact form brand copy updated to Esmeralda Legal Services.
+- Country and Company fields split into separate optional fields.
+- Existing Web3Forms access key, botcheck, redirects and backend behavior preserved.
+- target="_blank" links validated for rel="noopener".
+
+Structured data:
+- Main entity keeps the existing @id:
+  https://esmeraldaservice.com/#legalservice
+- Institutional name updated to Esmeralda Legal Services.
+- alternateName set to Esmeralda.
+- Service pages continue to reference provider by @id only.
+- Breadcrumb institutional label updated to Esmeralda Legal Services.
+
+Technical cleanup:
+- Removed all public meta site-version tags.
+- Removed public links to /en/index.html in favor of /en/.
+- Updated privacy, legal, thank-you and 404 branding.
+- Updated README_GITHUB_PAGES.md branding.
+- sitemap.xml retains 18 indexable URLs and lastmod updated to 2026-10-09.
+- robots.txt preserved.
+
+QA:
+- See QA_REPORT_V54.json.
+- Result: PASS.

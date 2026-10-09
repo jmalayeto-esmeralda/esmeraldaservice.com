@@ -1,0 +1,1049 @@
+{
+  "version": "esmeralda-v54-brand-system-trust-cleanup",
+  "checked_at": "2026-10-09",
+  "result": "PASS",
+  "pages_reviewed": [
+    "404.html",
+    "constitucion-empresas-venezuela/index.html",
+    "corporate-services/index.html",
+    "due-diligence-venezuela/index.html",
+    "en/company-formation-venezuela/index.html",
+    "en/corporate-services/index.html",
+    "en/index.html",
+    "en/insights/index.html",
+    "en/legal/index.html",
+    "en/legal-due-diligence-venezuela/index.html",
+    "en/market-entry-venezuela/index.html",
+    "en/privacy/index.html",
+    "en/thank-you/index.html",
+    "en/venture-studio/index.html",
+    "entrada-mercado-venezuela/index.html",
+    "gracias/index.html",
+    "index.html",
+    "insights/index.html",
+    "legal/index.html",
+    "privacy/index.html",
+    "venture-studio/index.html"
+  ],
+  "pages_reviewed_count": 21,
+  "sitemap_url_count": 18,
+  "broken_links_count": 0,
+  "broken_links": [],
+  "broken_fragments_count": 0,
+  "broken_fragments": [],
+  "missing_assets_count": 0,
+  "missing_assets": [],
+  "target_blank_without_noopener_count": 0,
+  "target_blank_without_noopener": [],
+  "manifest_validation": {
+    "exists": true,
+    "name": "Esmeralda Legal Services",
+    "short_name": "Esmeralda",
+    "brand_name_ok": true,
+    "short_name_ok": true
+  },
+  "url_decoded_whatsapp_and_brand_scan": {
+    "404.html": {
+      "Esmeralda Corporate Services_decoded": 0,
+      "free_consultation_decoded": 0,
+      "Esmeralda Service_decoded_excluding_llc": 0
+    },
+    "constitucion-empresas-venezuela/index.html": {
+      "Esmeralda Corporate Services_decoded": 0,
+      "free_consultation_decoded": 0,
+      "Esmeralda Service_decoded_excluding_llc": 0
+    },
+    "corporate-services/index.html": {
+      "Esmeralda Corporate Services_decoded": 0,
+      "free_consultation_decoded": 0,
+      "Esmeralda Service_decoded_excluding_llc": 0
+    },
+    "due-diligence-venezuela/index.html": {
+      "Esmeralda Corporate Services_decoded": 0,
+      "free_consultation_decoded": 0,
+      "Esmeralda Service_decoded_excluding_llc": 0
+    },
+    "en/company-formation-venezuela/index.html": {
+      "Esmeralda Corporate Services_decoded": 0,
+      "free_consultation_decoded": 0,
+      "Esmeralda Service_decoded_excluding_llc": 0
+    },
+    "en/corporate-services/index.html": {
+      "Esmeralda Corporate Services_decoded": 0,
+      "free_consultation_decoded": 0,
+      "Esmeralda Service_decoded_excluding_llc": 0
+    },
+    "en/index.html": {
+      "Esmeralda Corporate Services_decoded": 0,
+      "free_consultation_decoded": 0,
+      "Esmeralda Service_decoded_excluding_llc": 0
+    },
+    "en/insights/index.html": {
+      "Esmeralda Corporate Services_decoded": 0,
+      "free_consultation_decoded": 0,
+      "Esmeralda Service_decoded_excluding_llc": 0
+    },
+    "en/legal/index.html": {
+      "Esmeralda Corporate Services_decoded": 0,
+      "free_consultation_decoded": 0,
+      "Esmeralda Service_decoded_excluding_llc": 0
+    },
+    "en/legal-due-diligence-venezuela/index.html": {
+      "Esmeralda Corporate Services_decoded": 0,
+      "free_consultation_decoded": 0,
+      "Esmeralda Service_decoded_excluding_llc": 0
+    },
+    "en/market-entry-venezuela/index.html": {
+      "Esmeralda Corporate Services_decoded": 0,
+      "free_consultation_decoded": 0,
+      "Esmeralda Service_decoded_excluding_llc": 0
+    },
+    "en/privacy/index.html": {
+      "Esmeralda Corporate Services_decoded": 0,
+      "free_consultation_decoded": 0,
+      "Esmeralda Service_decoded_excluding_llc": 0
+    },
+    "en/thank-you/index.html": {
+      "Esmeralda Corporate Services_decoded": 0,
+      "free_consultation_decoded": 0,
+      "Esmeralda Service_decoded_excluding_llc": 0
+    },
+    "en/venture-studio/index.html": {
+      "Esmeralda Corporate Services_decoded": 0,
+      "free_consultation_decoded": 0,
+      "Esmeralda Service_decoded_excluding_llc": 0
+    },
+    "entrada-mercado-venezuela/index.html": {
+      "Esmeralda Corporate Services_decoded": 0,
+      "free_consultation_decoded": 0,
+      "Esmeralda Service_decoded_excluding_llc": 0
+    },
+    "gracias/index.html": {
+      "Esmeralda Corporate Services_decoded": 0,
+      "free_consultation_decoded": 0,
+      "Esmeralda Service_decoded_excluding_llc": 0
+    },
+    "index.html": {
+      "Esmeralda Corporate Services_decoded": 0,
+      "free_consultation_decoded": 0,
+      "Esmeralda Service_decoded_excluding_llc": 0
+    },
+    "insights/index.html": {
+      "Esmeralda Corporate Services_decoded": 0,
+      "free_consultation_decoded": 0,
+      "Esmeralda Service_decoded_excluding_llc": 0
+    },
+    "legal/index.html": {
+      "Esmeralda Corporate Services_decoded": 0,
+      "free_consultation_decoded": 0,
+      "Esmeralda Service_decoded_excluding_llc": 0
+    },
+    "privacy/index.html": {
+      "Esmeralda Corporate Services_decoded": 0,
+      "free_consultation_decoded": 0,
+      "Esmeralda Service_decoded_excluding_llc": 0
+    },
+    "venture-studio/index.html": {
+      "Esmeralda Corporate Services_decoded": 0,
+      "free_consultation_decoded": 0,
+      "Esmeralda Service_decoded_excluding_llc": 0
+    }
+  },
+  "zero_esmeralda_corporate_services": true,
+  "canonical_validation": {
+    "404.html": {
+      "count": 0,
+      "canonical": null
+    },
+    "constitucion-empresas-venezuela/index.html": {
+      "count": 1,
+      "canonical": "https://esmeraldaservice.com/constitucion-empresas-venezuela/"
+    },
+    "corporate-services/index.html": {
+      "count": 1,
+      "canonical": "https://esmeraldaservice.com/corporate-services/"
+    },
+    "due-diligence-venezuela/index.html": {
+      "count": 1,
+      "canonical": "https://esmeraldaservice.com/due-diligence-venezuela/"
+    },
+    "en/company-formation-venezuela/index.html": {
+      "count": 1,
+      "canonical": "https://esmeraldaservice.com/en/company-formation-venezuela/"
+    },
+    "en/corporate-services/index.html": {
+      "count": 1,
+      "canonical": "https://esmeraldaservice.com/en/corporate-services/"
+    },
+    "en/index.html": {
+      "count": 1,
+      "canonical": "https://esmeraldaservice.com/en/"
+    },
+    "en/insights/index.html": {
+      "count": 1,
+      "canonical": "https://esmeraldaservice.com/en/insights/"
+    },
+    "en/legal/index.html": {
+      "count": 1,
+      "canonical": "https://esmeraldaservice.com/en/legal/"
+    },
+    "en/legal-due-diligence-venezuela/index.html": {
+      "count": 1,
+      "canonical": "https://esmeraldaservice.com/en/legal-due-diligence-venezuela/"
+    },
+    "en/market-entry-venezuela/index.html": {
+      "count": 1,
+      "canonical": "https://esmeraldaservice.com/en/market-entry-venezuela/"
+    },
+    "en/privacy/index.html": {
+      "count": 1,
+      "canonical": "https://esmeraldaservice.com/en/privacy/"
+    },
+    "en/thank-you/index.html": {
+      "count": 1,
+      "canonical": "https://esmeraldaservice.com/en/thank-you/"
+    },
+    "en/venture-studio/index.html": {
+      "count": 1,
+      "canonical": "https://esmeraldaservice.com/en/venture-studio/"
+    },
+    "entrada-mercado-venezuela/index.html": {
+      "count": 1,
+      "canonical": "https://esmeraldaservice.com/entrada-mercado-venezuela/"
+    },
+    "gracias/index.html": {
+      "count": 1,
+      "canonical": "https://esmeraldaservice.com/gracias/"
+    },
+    "index.html": {
+      "count": 1,
+      "canonical": "https://esmeraldaservice.com/"
+    },
+    "insights/index.html": {
+      "count": 1,
+      "canonical": "https://esmeraldaservice.com/insights/"
+    },
+    "legal/index.html": {
+      "count": 1,
+      "canonical": "https://esmeraldaservice.com/legal/"
+    },
+    "privacy/index.html": {
+      "count": 1,
+      "canonical": "https://esmeraldaservice.com/privacy/"
+    },
+    "venture-studio/index.html": {
+      "count": 1,
+      "canonical": "https://esmeraldaservice.com/venture-studio/"
+    }
+  },
+  "hreflang_validation": {
+    "404.html": {
+      "values": [],
+      "no_es_ve": true
+    },
+    "constitucion-empresas-venezuela/index.html": {
+      "values": [
+        "es",
+        "en",
+        "x-default"
+      ],
+      "no_es_ve": true
+    },
+    "corporate-services/index.html": {
+      "values": [
+        "es",
+        "en",
+        "x-default"
+      ],
+      "no_es_ve": true
+    },
+    "due-diligence-venezuela/index.html": {
+      "values": [
+        "es",
+        "en",
+        "x-default"
+      ],
+      "no_es_ve": true
+    },
+    "en/company-formation-venezuela/index.html": {
+      "values": [
+        "es",
+        "en",
+        "x-default"
+      ],
+      "no_es_ve": true
+    },
+    "en/corporate-services/index.html": {
+      "values": [
+        "es",
+        "en",
+        "x-default"
+      ],
+      "no_es_ve": true
+    },
+    "en/index.html": {
+      "values": [
+        "es",
+        "en",
+        "x-default"
+      ],
+      "no_es_ve": true
+    },
+    "en/insights/index.html": {
+      "values": [
+        "es",
+        "en",
+        "x-default"
+      ],
+      "no_es_ve": true
+    },
+    "en/legal/index.html": {
+      "values": [
+        "es",
+        "en",
+        "x-default"
+      ],
+      "no_es_ve": true
+    },
+    "en/legal-due-diligence-venezuela/index.html": {
+      "values": [
+        "es",
+        "en",
+        "x-default"
+      ],
+      "no_es_ve": true
+    },
+    "en/market-entry-venezuela/index.html": {
+      "values": [
+        "es",
+        "en",
+        "x-default"
+      ],
+      "no_es_ve": true
+    },
+    "en/privacy/index.html": {
+      "values": [
+        "es",
+        "en",
+        "x-default"
+      ],
+      "no_es_ve": true
+    },
+    "en/thank-you/index.html": {
+      "values": [],
+      "no_es_ve": true
+    },
+    "en/venture-studio/index.html": {
+      "values": [
+        "es",
+        "en",
+        "x-default"
+      ],
+      "no_es_ve": true
+    },
+    "entrada-mercado-venezuela/index.html": {
+      "values": [
+        "es",
+        "en",
+        "x-default"
+      ],
+      "no_es_ve": true
+    },
+    "gracias/index.html": {
+      "values": [],
+      "no_es_ve": true
+    },
+    "index.html": {
+      "values": [
+        "es",
+        "en",
+        "x-default"
+      ],
+      "no_es_ve": true
+    },
+    "insights/index.html": {
+      "values": [
+        "es",
+        "en",
+        "x-default"
+      ],
+      "no_es_ve": true
+    },
+    "legal/index.html": {
+      "values": [
+        "es",
+        "en",
+        "x-default"
+      ],
+      "no_es_ve": true
+    },
+    "privacy/index.html": {
+      "values": [
+        "es",
+        "en",
+        "x-default"
+      ],
+      "no_es_ve": true
+    },
+    "venture-studio/index.html": {
+      "values": [
+        "es",
+        "en",
+        "x-default"
+      ],
+      "no_es_ve": true
+    }
+  },
+  "json_ld_parse_validation": {
+    "404.html": {
+      "valid": null
+    },
+    "constitucion-empresas-venezuela/index.html": {
+      "valid": true,
+      "contains_legalservice_id": true,
+      "contains_brand_id": false,
+      "contains_venturestudio_id": false,
+      "no_broad_area_served_claims": true,
+      "no_deprecated_brand_strings": true
+    },
+    "corporate-services/index.html": {
+      "valid": true,
+      "contains_legalservice_id": true,
+      "contains_brand_id": false,
+      "contains_venturestudio_id": false,
+      "no_broad_area_served_claims": true,
+      "no_deprecated_brand_strings": true
+    },
+    "due-diligence-venezuela/index.html": {
+      "valid": true,
+      "contains_legalservice_id": true,
+      "contains_brand_id": false,
+      "contains_venturestudio_id": false,
+      "no_broad_area_served_claims": true,
+      "no_deprecated_brand_strings": true
+    },
+    "en/company-formation-venezuela/index.html": {
+      "valid": true,
+      "contains_legalservice_id": true,
+      "contains_brand_id": false,
+      "contains_venturestudio_id": false,
+      "no_broad_area_served_claims": true,
+      "no_deprecated_brand_strings": true
+    },
+    "en/corporate-services/index.html": {
+      "valid": true,
+      "contains_legalservice_id": true,
+      "contains_brand_id": false,
+      "contains_venturestudio_id": false,
+      "no_broad_area_served_claims": true,
+      "no_deprecated_brand_strings": true
+    },
+    "en/index.html": {
+      "valid": true,
+      "contains_legalservice_id": true,
+      "contains_brand_id": true,
+      "contains_venturestudio_id": false,
+      "no_broad_area_served_claims": true,
+      "no_deprecated_brand_strings": true
+    },
+    "en/insights/index.html": {
+      "valid": true,
+      "contains_legalservice_id": true,
+      "contains_brand_id": false,
+      "contains_venturestudio_id": false,
+      "no_broad_area_served_claims": true,
+      "no_deprecated_brand_strings": true
+    },
+    "en/legal/index.html": {
+      "valid": true,
+      "contains_legalservice_id": true,
+      "contains_brand_id": false,
+      "contains_venturestudio_id": false,
+      "no_broad_area_served_claims": true,
+      "no_deprecated_brand_strings": true
+    },
+    "en/legal-due-diligence-venezuela/index.html": {
+      "valid": true,
+      "contains_legalservice_id": true,
+      "contains_brand_id": false,
+      "contains_venturestudio_id": false,
+      "no_broad_area_served_claims": true,
+      "no_deprecated_brand_strings": true
+    },
+    "en/market-entry-venezuela/index.html": {
+      "valid": true,
+      "contains_legalservice_id": true,
+      "contains_brand_id": false,
+      "contains_venturestudio_id": false,
+      "no_broad_area_served_claims": true,
+      "no_deprecated_brand_strings": true
+    },
+    "en/privacy/index.html": {
+      "valid": true,
+      "contains_legalservice_id": true,
+      "contains_brand_id": false,
+      "contains_venturestudio_id": false,
+      "no_broad_area_served_claims": true,
+      "no_deprecated_brand_strings": true
+    },
+    "en/thank-you/index.html": {
+      "valid": null
+    },
+    "en/venture-studio/index.html": {
+      "valid": true,
+      "contains_legalservice_id": false,
+      "contains_brand_id": true,
+      "contains_venturestudio_id": true,
+      "no_broad_area_served_claims": true,
+      "no_deprecated_brand_strings": true
+    },
+    "entrada-mercado-venezuela/index.html": {
+      "valid": true,
+      "contains_legalservice_id": true,
+      "contains_brand_id": false,
+      "contains_venturestudio_id": false,
+      "no_broad_area_served_claims": true,
+      "no_deprecated_brand_strings": true
+    },
+    "gracias/index.html": {
+      "valid": null
+    },
+    "index.html": {
+      "valid": true,
+      "contains_legalservice_id": true,
+      "contains_brand_id": true,
+      "contains_venturestudio_id": false,
+      "no_broad_area_served_claims": true,
+      "no_deprecated_brand_strings": true
+    },
+    "insights/index.html": {
+      "valid": true,
+      "contains_legalservice_id": true,
+      "contains_brand_id": false,
+      "contains_venturestudio_id": false,
+      "no_broad_area_served_claims": true,
+      "no_deprecated_brand_strings": true
+    },
+    "legal/index.html": {
+      "valid": true,
+      "contains_legalservice_id": true,
+      "contains_brand_id": false,
+      "contains_venturestudio_id": false,
+      "no_broad_area_served_claims": true,
+      "no_deprecated_brand_strings": true
+    },
+    "privacy/index.html": {
+      "valid": true,
+      "contains_legalservice_id": true,
+      "contains_brand_id": false,
+      "contains_venturestudio_id": false,
+      "no_broad_area_served_claims": true,
+      "no_deprecated_brand_strings": true
+    },
+    "venture-studio/index.html": {
+      "valid": true,
+      "contains_legalservice_id": false,
+      "contains_brand_id": true,
+      "contains_venturestudio_id": true,
+      "no_broad_area_served_claims": true,
+      "no_deprecated_brand_strings": true
+    }
+  },
+  "structured_data_brand_validation": {
+    "index.html": {
+      "brand_node_exists": true,
+      "brand_node_type": "Brand",
+      "brand_name": "Esmeralda",
+      "brand_logo": "https://esmeraldaservice.com/assets/esmeralda.png",
+      "legalservice_id_preserved": true,
+      "legalservice_name": "Esmeralda Legal Services",
+      "legalservice_brand_ref": "https://esmeraldaservice.com/#brand"
+    },
+    "en/index.html": {
+      "brand_node_exists": true,
+      "brand_node_type": "Brand",
+      "brand_name": "Esmeralda",
+      "brand_logo": "https://esmeraldaservice.com/assets/esmeralda.png",
+      "legalservice_id_preserved": true,
+      "legalservice_name": "Esmeralda Legal Services",
+      "legalservice_brand_ref": "https://esmeraldaservice.com/#brand"
+    }
+  },
+  "venture_studio_schema_validation": {
+    "venture-studio/index.html": {
+      "venturestudio_node_exists": true,
+      "venturestudio_type": "Organization",
+      "venturestudio_name": "Esmeralda Venture Studio",
+      "venturestudio_logo": "https://esmeraldaservice.com/assets/esmeralda-venture-studio.png",
+      "venturestudio_brand_ref": "https://esmeraldaservice.com/#brand",
+      "webpage_publisher": "https://esmeraldaservice.com/#venturestudio",
+      "service_provider": "https://esmeraldaservice.com/#venturestudio",
+      "does_not_use_legalservice_as_provider_publisher": true,
+      "breadcrumb_root_name": "Esmeralda",
+      "breadcrumb_root_item": "https://esmeraldaservice.com/"
+    },
+    "en/venture-studio/index.html": {
+      "venturestudio_node_exists": true,
+      "venturestudio_type": "Organization",
+      "venturestudio_name": "Esmeralda Venture Studio",
+      "venturestudio_logo": "https://esmeraldaservice.com/assets/esmeralda-venture-studio.png",
+      "venturestudio_brand_ref": "https://esmeraldaservice.com/#brand",
+      "webpage_publisher": "https://esmeraldaservice.com/#venturestudio",
+      "service_provider": "https://esmeraldaservice.com/#venturestudio",
+      "does_not_use_legalservice_as_provider_publisher": true,
+      "breadcrumb_root_name": "Esmeralda",
+      "breadcrumb_root_item": "https://esmeraldaservice.com/"
+    }
+  },
+  "brand_name_scan": {
+    "404.html": {
+      "Esmeralda Service_excluding_Esmeralda_Services_LLC": 0,
+      "Esmeralda Services LLC_allowed": 0,
+      "Esmeralda Servicios Legales": 0,
+      "Esmeralda - Firma Legal": 0,
+      "Esmeralda Corporate Services": 0,
+      "site_version_meta": 0,
+      "public_en_index_href": 0,
+      "free_consultation": 0,
+      "country_company_combined": 0
+    },
+    "constitucion-empresas-venezuela/index.html": {
+      "Esmeralda Service_excluding_Esmeralda_Services_LLC": 0,
+      "Esmeralda Services LLC_allowed": 0,
+      "Esmeralda Servicios Legales": 0,
+      "Esmeralda - Firma Legal": 0,
+      "Esmeralda Corporate Services": 0,
+      "site_version_meta": 0,
+      "public_en_index_href": 0,
+      "free_consultation": 0,
+      "country_company_combined": 0
+    },
+    "corporate-services/index.html": {
+      "Esmeralda Service_excluding_Esmeralda_Services_LLC": 0,
+      "Esmeralda Services LLC_allowed": 0,
+      "Esmeralda Servicios Legales": 0,
+      "Esmeralda - Firma Legal": 0,
+      "Esmeralda Corporate Services": 0,
+      "site_version_meta": 0,
+      "public_en_index_href": 0,
+      "free_consultation": 0,
+      "country_company_combined": 0
+    },
+    "due-diligence-venezuela/index.html": {
+      "Esmeralda Service_excluding_Esmeralda_Services_LLC": 0,
+      "Esmeralda Services LLC_allowed": 0,
+      "Esmeralda Servicios Legales": 0,
+      "Esmeralda - Firma Legal": 0,
+      "Esmeralda Corporate Services": 0,
+      "site_version_meta": 0,
+      "public_en_index_href": 0,
+      "free_consultation": 0,
+      "country_company_combined": 0
+    },
+    "en/company-formation-venezuela/index.html": {
+      "Esmeralda Service_excluding_Esmeralda_Services_LLC": 0,
+      "Esmeralda Services LLC_allowed": 0,
+      "Esmeralda Servicios Legales": 0,
+      "Esmeralda - Firma Legal": 0,
+      "Esmeralda Corporate Services": 0,
+      "site_version_meta": 0,
+      "public_en_index_href": 0,
+      "free_consultation": 0,
+      "country_company_combined": 0
+    },
+    "en/corporate-services/index.html": {
+      "Esmeralda Service_excluding_Esmeralda_Services_LLC": 0,
+      "Esmeralda Services LLC_allowed": 0,
+      "Esmeralda Servicios Legales": 0,
+      "Esmeralda - Firma Legal": 0,
+      "Esmeralda Corporate Services": 0,
+      "site_version_meta": 0,
+      "public_en_index_href": 0,
+      "free_consultation": 0,
+      "country_company_combined": 0
+    },
+    "en/index.html": {
+      "Esmeralda Service_excluding_Esmeralda_Services_LLC": 0,
+      "Esmeralda Services LLC_allowed": 1,
+      "Esmeralda Servicios Legales": 0,
+      "Esmeralda - Firma Legal": 0,
+      "Esmeralda Corporate Services": 0,
+      "site_version_meta": 0,
+      "public_en_index_href": 0,
+      "free_consultation": 0,
+      "country_company_combined": 0
+    },
+    "en/insights/index.html": {
+      "Esmeralda Service_excluding_Esmeralda_Services_LLC": 0,
+      "Esmeralda Services LLC_allowed": 0,
+      "Esmeralda Servicios Legales": 0,
+      "Esmeralda - Firma Legal": 0,
+      "Esmeralda Corporate Services": 0,
+      "site_version_meta": 0,
+      "public_en_index_href": 0,
+      "free_consultation": 0,
+      "country_company_combined": 0
+    },
+    "en/legal/index.html": {
+      "Esmeralda Service_excluding_Esmeralda_Services_LLC": 0,
+      "Esmeralda Services LLC_allowed": 0,
+      "Esmeralda Servicios Legales": 0,
+      "Esmeralda - Firma Legal": 0,
+      "Esmeralda Corporate Services": 0,
+      "site_version_meta": 0,
+      "public_en_index_href": 0,
+      "free_consultation": 0,
+      "country_company_combined": 0
+    },
+    "en/legal-due-diligence-venezuela/index.html": {
+      "Esmeralda Service_excluding_Esmeralda_Services_LLC": 0,
+      "Esmeralda Services LLC_allowed": 0,
+      "Esmeralda Servicios Legales": 0,
+      "Esmeralda - Firma Legal": 0,
+      "Esmeralda Corporate Services": 0,
+      "site_version_meta": 0,
+      "public_en_index_href": 0,
+      "free_consultation": 0,
+      "country_company_combined": 0
+    },
+    "en/market-entry-venezuela/index.html": {
+      "Esmeralda Service_excluding_Esmeralda_Services_LLC": 0,
+      "Esmeralda Services LLC_allowed": 0,
+      "Esmeralda Servicios Legales": 0,
+      "Esmeralda - Firma Legal": 0,
+      "Esmeralda Corporate Services": 0,
+      "site_version_meta": 0,
+      "public_en_index_href": 0,
+      "free_consultation": 0,
+      "country_company_combined": 0
+    },
+    "en/privacy/index.html": {
+      "Esmeralda Service_excluding_Esmeralda_Services_LLC": 0,
+      "Esmeralda Services LLC_allowed": 0,
+      "Esmeralda Servicios Legales": 0,
+      "Esmeralda - Firma Legal": 0,
+      "Esmeralda Corporate Services": 0,
+      "site_version_meta": 0,
+      "public_en_index_href": 0,
+      "free_consultation": 0,
+      "country_company_combined": 0
+    },
+    "en/thank-you/index.html": {
+      "Esmeralda Service_excluding_Esmeralda_Services_LLC": 0,
+      "Esmeralda Services LLC_allowed": 0,
+      "Esmeralda Servicios Legales": 0,
+      "Esmeralda - Firma Legal": 0,
+      "Esmeralda Corporate Services": 0,
+      "site_version_meta": 0,
+      "public_en_index_href": 0,
+      "free_consultation": 0,
+      "country_company_combined": 0
+    },
+    "en/venture-studio/index.html": {
+      "Esmeralda Service_excluding_Esmeralda_Services_LLC": 0,
+      "Esmeralda Services LLC_allowed": 0,
+      "Esmeralda Servicios Legales": 0,
+      "Esmeralda - Firma Legal": 0,
+      "Esmeralda Corporate Services": 0,
+      "site_version_meta": 0,
+      "public_en_index_href": 0,
+      "free_consultation": 0,
+      "country_company_combined": 0
+    },
+    "entrada-mercado-venezuela/index.html": {
+      "Esmeralda Service_excluding_Esmeralda_Services_LLC": 0,
+      "Esmeralda Services LLC_allowed": 0,
+      "Esmeralda Servicios Legales": 0,
+      "Esmeralda - Firma Legal": 0,
+      "Esmeralda Corporate Services": 0,
+      "site_version_meta": 0,
+      "public_en_index_href": 0,
+      "free_consultation": 0,
+      "country_company_combined": 0
+    },
+    "gracias/index.html": {
+      "Esmeralda Service_excluding_Esmeralda_Services_LLC": 0,
+      "Esmeralda Services LLC_allowed": 0,
+      "Esmeralda Servicios Legales": 0,
+      "Esmeralda - Firma Legal": 0,
+      "Esmeralda Corporate Services": 0,
+      "site_version_meta": 0,
+      "public_en_index_href": 0,
+      "free_consultation": 0,
+      "country_company_combined": 0
+    },
+    "index.html": {
+      "Esmeralda Service_excluding_Esmeralda_Services_LLC": 0,
+      "Esmeralda Services LLC_allowed": 1,
+      "Esmeralda Servicios Legales": 0,
+      "Esmeralda - Firma Legal": 0,
+      "Esmeralda Corporate Services": 0,
+      "site_version_meta": 0,
+      "public_en_index_href": 0,
+      "free_consultation": 0,
+      "country_company_combined": 0
+    },
+    "insights/index.html": {
+      "Esmeralda Service_excluding_Esmeralda_Services_LLC": 0,
+      "Esmeralda Services LLC_allowed": 0,
+      "Esmeralda Servicios Legales": 0,
+      "Esmeralda - Firma Legal": 0,
+      "Esmeralda Corporate Services": 0,
+      "site_version_meta": 0,
+      "public_en_index_href": 0,
+      "free_consultation": 0,
+      "country_company_combined": 0
+    },
+    "legal/index.html": {
+      "Esmeralda Service_excluding_Esmeralda_Services_LLC": 0,
+      "Esmeralda Services LLC_allowed": 0,
+      "Esmeralda Servicios Legales": 0,
+      "Esmeralda - Firma Legal": 0,
+      "Esmeralda Corporate Services": 0,
+      "site_version_meta": 0,
+      "public_en_index_href": 0,
+      "free_consultation": 0,
+      "country_company_combined": 0
+    },
+    "privacy/index.html": {
+      "Esmeralda Service_excluding_Esmeralda_Services_LLC": 0,
+      "Esmeralda Services LLC_allowed": 0,
+      "Esmeralda Servicios Legales": 0,
+      "Esmeralda - Firma Legal": 0,
+      "Esmeralda Corporate Services": 0,
+      "site_version_meta": 0,
+      "public_en_index_href": 0,
+      "free_consultation": 0,
+      "country_company_combined": 0
+    },
+    "venture-studio/index.html": {
+      "Esmeralda Service_excluding_Esmeralda_Services_LLC": 0,
+      "Esmeralda Services LLC_allowed": 0,
+      "Esmeralda Servicios Legales": 0,
+      "Esmeralda - Firma Legal": 0,
+      "Esmeralda Corporate Services": 0,
+      "site_version_meta": 0,
+      "public_en_index_href": 0,
+      "free_consultation": 0,
+      "country_company_combined": 0
+    }
+  },
+  "deprecated_name_occurrences": {
+    "Esmeralda Service_excluding_Esmeralda_Services_LLC": 0,
+    "Esmeralda Services LLC_allowed_legal_entity": 2,
+    "Esmeralda Servicios Legales": 0,
+    "Esmeralda - Firma Legal": 0,
+    "Esmeralda Corporate Services": 0
+  },
+  "en_index_public_href_count": 0,
+  "free_consultation_phrase_count": 0,
+  "country_company_combined_field_count": 0,
+  "mobile_checks": {
+    "404.html": {
+      "viewport_meta": true,
+      "media_queries_present": true
+    },
+    "constitucion-empresas-venezuela/index.html": {
+      "viewport_meta": true,
+      "media_queries_present": true
+    },
+    "corporate-services/index.html": {
+      "viewport_meta": true,
+      "media_queries_present": true
+    },
+    "due-diligence-venezuela/index.html": {
+      "viewport_meta": true,
+      "media_queries_present": true
+    },
+    "en/company-formation-venezuela/index.html": {
+      "viewport_meta": true,
+      "media_queries_present": true
+    },
+    "en/corporate-services/index.html": {
+      "viewport_meta": true,
+      "media_queries_present": true
+    },
+    "en/index.html": {
+      "viewport_meta": true,
+      "media_queries_present": true
+    },
+    "en/insights/index.html": {
+      "viewport_meta": true,
+      "media_queries_present": true
+    },
+    "en/legal/index.html": {
+      "viewport_meta": true,
+      "media_queries_present": true
+    },
+    "en/legal-due-diligence-venezuela/index.html": {
+      "viewport_meta": true,
+      "media_queries_present": true
+    },
+    "en/market-entry-venezuela/index.html": {
+      "viewport_meta": true,
+      "media_queries_present": true
+    },
+    "en/privacy/index.html": {
+      "viewport_meta": true,
+      "media_queries_present": true
+    },
+    "en/thank-you/index.html": {
+      "viewport_meta": true,
+      "media_queries_present": true
+    },
+    "en/venture-studio/index.html": {
+      "viewport_meta": true,
+      "media_queries_present": true
+    },
+    "entrada-mercado-venezuela/index.html": {
+      "viewport_meta": true,
+      "media_queries_present": true
+    },
+    "gracias/index.html": {
+      "viewport_meta": true,
+      "media_queries_present": true
+    },
+    "index.html": {
+      "viewport_meta": true,
+      "media_queries_present": true
+    },
+    "insights/index.html": {
+      "viewport_meta": true,
+      "media_queries_present": true
+    },
+    "legal/index.html": {
+      "viewport_meta": true,
+      "media_queries_present": true
+    },
+    "privacy/index.html": {
+      "viewport_meta": true,
+      "media_queries_present": true
+    },
+    "venture-studio/index.html": {
+      "viewport_meta": true,
+      "media_queries_present": true
+    }
+  },
+  "h1_checks": {
+    "404.html": {
+      "count": 1,
+      "single_h1": true
+    },
+    "constitucion-empresas-venezuela/index.html": {
+      "count": 1,
+      "single_h1": true
+    },
+    "corporate-services/index.html": {
+      "count": 1,
+      "single_h1": true
+    },
+    "due-diligence-venezuela/index.html": {
+      "count": 1,
+      "single_h1": true
+    },
+    "en/company-formation-venezuela/index.html": {
+      "count": 1,
+      "single_h1": true
+    },
+    "en/corporate-services/index.html": {
+      "count": 1,
+      "single_h1": true
+    },
+    "en/index.html": {
+      "count": 1,
+      "single_h1": true
+    },
+    "en/insights/index.html": {
+      "count": 1,
+      "single_h1": true
+    },
+    "en/legal/index.html": {
+      "count": 1,
+      "single_h1": true
+    },
+    "en/legal-due-diligence-venezuela/index.html": {
+      "count": 1,
+      "single_h1": true
+    },
+    "en/market-entry-venezuela/index.html": {
+      "count": 1,
+      "single_h1": true
+    },
+    "en/privacy/index.html": {
+      "count": 1,
+      "single_h1": true
+    },
+    "en/thank-you/index.html": {
+      "count": 1,
+      "single_h1": true
+    },
+    "en/venture-studio/index.html": {
+      "count": 1,
+      "single_h1": true
+    },
+    "entrada-mercado-venezuela/index.html": {
+      "count": 1,
+      "single_h1": true
+    },
+    "gracias/index.html": {
+      "count": 1,
+      "single_h1": true
+    },
+    "index.html": {
+      "count": 1,
+      "single_h1": true
+    },
+    "insights/index.html": {
+      "count": 1,
+      "single_h1": true
+    },
+    "legal/index.html": {
+      "count": 1,
+      "single_h1": true
+    },
+    "privacy/index.html": {
+      "count": 1,
+      "single_h1": true
+    },
+    "venture-studio/index.html": {
+      "count": 1,
+      "single_h1": true
+    }
+  },
+  "form_checks": {
+    "index.html": {
+      "web3forms_action": true,
+      "access_key_present": true,
+      "botcheck_present": true,
+      "redirect_present": true,
+      "country_field": true,
+      "company_field": true,
+      "old_combined_absent": true
+    },
+    "en/index.html": {
+      "web3forms_action": true,
+      "access_key_present": true,
+      "botcheck_present": true,
+      "redirect_present": true,
+      "country_field": true,
+      "company_field": true,
+      "old_combined_absent": true
+    }
+  },
+  "sitemap_validation": {
+    "url_count": 18,
+    "expected_18": true,
+    "no_es_ve": true,
+    "lastmod_values": [
+      "2026-10-09"
+    ]
+  },
+  "robots_validation": {
+    "allows_general_crawl": true,
+    "blocks_gracias": true,
+    "blocks_thank_you": true,
+    "references_sitemap": true
+  },
+  "errors": [],
+  "warnings": []
+}
