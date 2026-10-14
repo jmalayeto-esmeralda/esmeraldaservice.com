@@ -27,3 +27,7 @@ QA:
 - Result: PASS.
 - Content integrity compares implemented articles against locked Markdown sources.
 - Hero validation verifies dimensions, SHA-256 match, visual variance and non-monochromatic content.
+
+Additional visual polish:
+- Adjusted Insights hub feature-card layout to prevent text overflow and improve desktop/mobile balance.
+- Reduced individual article H1 scale and improved responsive title wrapping.

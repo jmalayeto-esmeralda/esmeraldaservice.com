@@ -924,5 +924,21 @@
     }
   },
   "errors": [],
-  "warnings": []
+  "warnings": [],
+  "visual_polish_validation": {
+    "insights_hub_overflow_fix": true,
+    "article_h1_scale_reduced": true,
+    "files_touched": [
+      "insights/index.html",
+      "en/insights/index.html",
+      "insights/entrada-mercado-venezuela-antes-de-constituir/index.html",
+      "en/insights/venezuela-market-entry-before-incorporating/index.html"
+    ],
+    "hero_dimensions": [
+      1200,
+      627
+    ],
+    "hero_visual_variance": 4262.576645849219,
+    "errors": []
+  }
 }
