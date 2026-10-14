@@ -1,0 +1,29 @@
+ESMERALDA V55 — INSIGHTS ARTICLE SYSTEM + MARKET ENTRY LAUNCH — CORRECTED
+
+Base:
+- Surgical correction over the existing V55 package.
+- No redesign, no new service pages, no CMS, no LinkedIn automation and no V56 conversion.
+
+Source of truth:
+- Locked content package used as canonical source:
+  - market-entry-es.md
+  - market-entry-en.md
+  - venezuela-market-entry-2026-hero.png
+  - V55_CONTENT_MANIFEST.md
+
+Corrections:
+- Restored the Spanish article body from market-entry-es.md.
+- Restored the English article body from market-entry-en.md.
+- Preserved introduction, headings, numbering, lists, FAQ, conclusion, disclaimer and emphasis.
+- Replaced the placeholder hero image with the approved 1200 × 627 px image from the locked package.
+- Preserved the existing article URLs, metadata, canonicals, hreflang, Open Graph, Twitter cards, Article structured data, breadcrumbs, hubs and sitemap.
+- Added visible publication dates using <time datetime="2026-10-14">.
+- Removed duplicated closing statement in the CTA area.
+- Corrected English CTA to: Explore Market Entry →.
+- Maintained natural internal links to Market Entry, Legal Due Diligence, Company Formation and Corporate Services without altering approved prose.
+
+QA:
+- See QA_REPORT_V55.json.
+- Result: PASS.
+- Content integrity compares implemented articles against locked Markdown sources.
+- Hero validation verifies dimensions, SHA-256 match, visual variance and non-monochromatic content.

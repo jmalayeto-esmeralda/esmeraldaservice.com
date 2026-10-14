@@ -1,0 +1,928 @@
+{
+  "version": "esmeralda-v55-insights-article-system-market-entry-launch-corrected",
+  "checked_at": "2026-10-14",
+  "base_version": "esmeralda-v55-insights-article-system-market-entry-launch",
+  "source_manifest_sha256": "df2cc9f567b1b883febed8f308e5fa5e9e0b42dd28e2534dcf014bc62e7f1469",
+  "source_file_hashes": {
+    "market-entry-es.md": "2c5aae95c1068843172de535058d725b5ff4445af5f997078f6104bea61bab9d",
+    "market-entry-en.md": "4783f9f2dd4a06214ce02f3e82ff9c21b86f2b54be705db609dd40fa59697e79",
+    "venezuela-market-entry-2026-hero.png": "05506338f6e01edba016b6d4163ff3e10a511c81eec0fd476d18605f08186419"
+  },
+  "result": "PASS",
+  "pages_reviewed": [
+    "404.html",
+    "constitucion-empresas-venezuela/index.html",
+    "corporate-services/index.html",
+    "due-diligence-venezuela/index.html",
+    "en/company-formation-venezuela/index.html",
+    "en/corporate-services/index.html",
+    "en/index.html",
+    "en/insights/index.html",
+    "en/insights/venezuela-market-entry-before-incorporating/index.html",
+    "en/legal/index.html",
+    "en/legal-due-diligence-venezuela/index.html",
+    "en/market-entry-venezuela/index.html",
+    "en/privacy/index.html",
+    "en/thank-you/index.html",
+    "en/venture-studio/index.html",
+    "entrada-mercado-venezuela/index.html",
+    "gracias/index.html",
+    "index.html",
+    "insights/entrada-mercado-venezuela-antes-de-constituir/index.html",
+    "insights/index.html",
+    "legal/index.html",
+    "privacy/index.html",
+    "venture-studio/index.html"
+  ],
+  "pages_reviewed_count": 23,
+  "sitemap_url_count": 20,
+  "hero_validation": {
+    "exists": true,
+    "sha256_matches_manifest": true,
+    "dimensions": [
+      1200,
+      627
+    ],
+    "dimensions_ok": true,
+    "variance": 4262.576645849219,
+    "variance_ok": true,
+    "unique_colors_sample": 18899,
+    "not_monochromatic": true
+  },
+  "content_integrity": {
+    "es": {
+      "all_markdown_blocks_present": true,
+      "missing_blocks": [],
+      "block_count_source": 131,
+      "blocks_found": 131,
+      "h2_source": [
+        "1. Definir qué se quiere hacer en Venezuela",
+        "2. Determinar si realmente se necesita una entidad local",
+        "3. Entender con quién se está haciendo negocio",
+        "4. Diseñar gobierno y control antes de necesitarlo",
+        "5. Resolver temprano banca, pagos, contabilidad y fiscalidad",
+        "6. Identificar qué otras áreas afectan la entrada",
+        "7. Pensar en lo que ocurre después de la constitución",
+        "Una secuencia práctica para entrar al mercado",
+        "Preguntas frecuentes",
+        "Antes de escoger la estructura, defina la ruta"
+      ],
+      "h2_html": [
+        "1. Definir qué se quiere hacer en Venezuela",
+        "2. Determinar si realmente se necesita una entidad local",
+        "3. Entender con quién se está haciendo negocio",
+        "4. Diseñar gobierno y control antes de necesitarlo",
+        "5. Resolver temprano banca, pagos, contabilidad y fiscalidad",
+        "6. Identificar qué otras áreas afectan la entrada",
+        "7. Pensar en lo que ocurre después de la constitución",
+        "Una secuencia práctica para entrar al mercado",
+        "Preguntas frecuentes",
+        "Antes de escoger la estructura, defina la ruta"
+      ],
+      "h2_match": true,
+      "h3_source_count": 10,
+      "h3_html_count": 10,
+      "h3_match": true,
+      "faq_source_count": 5,
+      "faq_html_count": 5,
+      "faq_match": true,
+      "closing_phrase_count": 1,
+      "disclaimer_present": true
+    },
+    "en": {
+      "all_markdown_blocks_present": true,
+      "missing_blocks": [],
+      "block_count_source": 132,
+      "blocks_found": 132,
+      "h2_source": [
+        "1. Start with what the business intends to do",
+        "2. Determine whether a local entity is actually required",
+        "3. Understand who is on the other side of the transaction",
+        "4. Design governance and control before they become a problem",
+        "5. Address banking, payments, tax and accounting early",
+        "6. Identify the other areas that affect market entry",
+        "7. Think about what happens after incorporation",
+        "A practical market-entry sequence",
+        "Frequently Asked Questions",
+        "Define the route before committing to the structure"
+      ],
+      "h2_html": [
+        "1. Start with what the business intends to do",
+        "2. Determine whether a local entity is actually required",
+        "3. Understand who is on the other side of the transaction",
+        "4. Design governance and control before they become a problem",
+        "5. Address banking, payments, tax and accounting early",
+        "6. Identify the other areas that affect market entry",
+        "7. Think about what happens after incorporation",
+        "A practical market-entry sequence",
+        "Frequently Asked Questions",
+        "Define the route before committing to the structure"
+      ],
+      "h2_match": true,
+      "h3_source_count": 10,
+      "h3_html_count": 10,
+      "h3_match": true,
+      "faq_source_count": 5,
+      "faq_html_count": 5,
+      "faq_match": true,
+      "closing_phrase_count": 1,
+      "disclaimer_present": true
+    }
+  },
+  "article_specific_validation": {
+    "insights/entrada-mercado-venezuela-antes-de-constituir/index.html": {
+      "og_type_article": true,
+      "og_image_correct": true,
+      "twitter_image_correct": true,
+      "article_schema_image_correct": true,
+      "time_datetime": true,
+      "article_schema": true,
+      "author": true,
+      "publisher_legalservice": true,
+      "brand": true,
+      "internal_market_entry": true,
+      "internal_due_diligence": true,
+      "internal_company_formation": true,
+      "internal_corporate_services": true,
+      "english_cta_correct": true,
+      "english_no_spanish_cta": true
+    },
+    "en/insights/venezuela-market-entry-before-incorporating/index.html": {
+      "og_type_article": true,
+      "og_image_correct": true,
+      "twitter_image_correct": true,
+      "article_schema_image_correct": true,
+      "time_datetime": true,
+      "article_schema": true,
+      "author": true,
+      "publisher_legalservice": true,
+      "brand": true,
+      "internal_market_entry": true,
+      "internal_due_diligence": true,
+      "internal_company_formation": true,
+      "internal_corporate_services": true,
+      "english_cta_correct": true,
+      "english_no_spanish_cta": true
+    }
+  },
+  "hub_validation": {
+    "insights/index.html": {
+      "card_present": true,
+      "approved_image_path": true,
+      "correct_article_link": true,
+      "category_present": true,
+      "date_present": true
+    },
+    "en/insights/index.html": {
+      "card_present": true,
+      "approved_image_path": true,
+      "correct_article_link": true,
+      "category_present": true,
+      "date_present": true
+    }
+  },
+  "canonical_validation": {
+    "404.html": {
+      "count": 0,
+      "canonical": null
+    },
+    "constitucion-empresas-venezuela/index.html": {
+      "count": 1,
+      "canonical": "https://esmeraldaservice.com/constitucion-empresas-venezuela/"
+    },
+    "corporate-services/index.html": {
+      "count": 1,
+      "canonical": "https://esmeraldaservice.com/corporate-services/"
+    },
+    "due-diligence-venezuela/index.html": {
+      "count": 1,
+      "canonical": "https://esmeraldaservice.com/due-diligence-venezuela/"
+    },
+    "en/company-formation-venezuela/index.html": {
+      "count": 1,
+      "canonical": "https://esmeraldaservice.com/en/company-formation-venezuela/"
+    },
+    "en/corporate-services/index.html": {
+      "count": 1,
+      "canonical": "https://esmeraldaservice.com/en/corporate-services/"
+    },
+    "en/index.html": {
+      "count": 1,
+      "canonical": "https://esmeraldaservice.com/en/"
+    },
+    "en/insights/index.html": {
+      "count": 1,
+      "canonical": "https://esmeraldaservice.com/en/insights/"
+    },
+    "en/insights/venezuela-market-entry-before-incorporating/index.html": {
+      "count": 1,
+      "canonical": "https://esmeraldaservice.com/en/insights/venezuela-market-entry-before-incorporating/"
+    },
+    "en/legal/index.html": {
+      "count": 1,
+      "canonical": "https://esmeraldaservice.com/en/legal/"
+    },
+    "en/legal-due-diligence-venezuela/index.html": {
+      "count": 1,
+      "canonical": "https://esmeraldaservice.com/en/legal-due-diligence-venezuela/"
+    },
+    "en/market-entry-venezuela/index.html": {
+      "count": 1,
+      "canonical": "https://esmeraldaservice.com/en/market-entry-venezuela/"
+    },
+    "en/privacy/index.html": {
+      "count": 1,
+      "canonical": "https://esmeraldaservice.com/en/privacy/"
+    },
+    "en/thank-you/index.html": {
+      "count": 1,
+      "canonical": "https://esmeraldaservice.com/en/thank-you/"
+    },
+    "en/venture-studio/index.html": {
+      "count": 1,
+      "canonical": "https://esmeraldaservice.com/en/venture-studio/"
+    },
+    "entrada-mercado-venezuela/index.html": {
+      "count": 1,
+      "canonical": "https://esmeraldaservice.com/entrada-mercado-venezuela/"
+    },
+    "gracias/index.html": {
+      "count": 1,
+      "canonical": "https://esmeraldaservice.com/gracias/"
+    },
+    "index.html": {
+      "count": 1,
+      "canonical": "https://esmeraldaservice.com/"
+    },
+    "insights/entrada-mercado-venezuela-antes-de-constituir/index.html": {
+      "count": 1,
+      "canonical": "https://esmeraldaservice.com/insights/entrada-mercado-venezuela-antes-de-constituir/"
+    },
+    "insights/index.html": {
+      "count": 1,
+      "canonical": "https://esmeraldaservice.com/insights/"
+    },
+    "legal/index.html": {
+      "count": 1,
+      "canonical": "https://esmeraldaservice.com/legal/"
+    },
+    "privacy/index.html": {
+      "count": 1,
+      "canonical": "https://esmeraldaservice.com/privacy/"
+    },
+    "venture-studio/index.html": {
+      "count": 1,
+      "canonical": "https://esmeraldaservice.com/venture-studio/"
+    }
+  },
+  "hreflang_validation": {
+    "404.html": {
+      "values": [],
+      "no_es_ve": true
+    },
+    "constitucion-empresas-venezuela/index.html": {
+      "values": [
+        "es",
+        "en",
+        "x-default"
+      ],
+      "no_es_ve": true
+    },
+    "corporate-services/index.html": {
+      "values": [
+        "es",
+        "en",
+        "x-default"
+      ],
+      "no_es_ve": true
+    },
+    "due-diligence-venezuela/index.html": {
+      "values": [
+        "es",
+        "en",
+        "x-default"
+      ],
+      "no_es_ve": true
+    },
+    "en/company-formation-venezuela/index.html": {
+      "values": [
+        "es",
+        "en",
+        "x-default"
+      ],
+      "no_es_ve": true
+    },
+    "en/corporate-services/index.html": {
+      "values": [
+        "es",
+        "en",
+        "x-default"
+      ],
+      "no_es_ve": true
+    },
+    "en/index.html": {
+      "values": [
+        "es",
+        "en",
+        "x-default"
+      ],
+      "no_es_ve": true
+    },
+    "en/insights/index.html": {
+      "values": [
+        "es",
+        "en",
+        "x-default"
+      ],
+      "no_es_ve": true
+    },
+    "en/insights/venezuela-market-entry-before-incorporating/index.html": {
+      "values": [
+        "es",
+        "en",
+        "x-default"
+      ],
+      "no_es_ve": true
+    },
+    "en/legal/index.html": {
+      "values": [
+        "es",
+        "en",
+        "x-default"
+      ],
+      "no_es_ve": true
+    },
+    "en/legal-due-diligence-venezuela/index.html": {
+      "values": [
+        "es",
+        "en",
+        "x-default"
+      ],
+      "no_es_ve": true
+    },
+    "en/market-entry-venezuela/index.html": {
+      "values": [
+        "es",
+        "en",
+        "x-default"
+      ],
+      "no_es_ve": true
+    },
+    "en/privacy/index.html": {
+      "values": [
+        "es",
+        "en",
+        "x-default"
+      ],
+      "no_es_ve": true
+    },
+    "en/thank-you/index.html": {
+      "values": [],
+      "no_es_ve": true
+    },
+    "en/venture-studio/index.html": {
+      "values": [
+        "es",
+        "en",
+        "x-default"
+      ],
+      "no_es_ve": true
+    },
+    "entrada-mercado-venezuela/index.html": {
+      "values": [
+        "es",
+        "en",
+        "x-default"
+      ],
+      "no_es_ve": true
+    },
+    "gracias/index.html": {
+      "values": [],
+      "no_es_ve": true
+    },
+    "index.html": {
+      "values": [
+        "es",
+        "en",
+        "x-default"
+      ],
+      "no_es_ve": true
+    },
+    "insights/entrada-mercado-venezuela-antes-de-constituir/index.html": {
+      "values": [
+        "es",
+        "en",
+        "x-default"
+      ],
+      "no_es_ve": true
+    },
+    "insights/index.html": {
+      "values": [
+        "es",
+        "en",
+        "x-default"
+      ],
+      "no_es_ve": true
+    },
+    "legal/index.html": {
+      "values": [
+        "es",
+        "en",
+        "x-default"
+      ],
+      "no_es_ve": true
+    },
+    "privacy/index.html": {
+      "values": [
+        "es",
+        "en",
+        "x-default"
+      ],
+      "no_es_ve": true
+    },
+    "venture-studio/index.html": {
+      "values": [
+        "es",
+        "en",
+        "x-default"
+      ],
+      "no_es_ve": true
+    }
+  },
+  "json_ld_validation": {
+    "404.html": {
+      "valid": null
+    },
+    "constitucion-empresas-venezuela/index.html": {
+      "valid": true,
+      "has_article": false,
+      "has_legalservice": true,
+      "has_brand": false
+    },
+    "corporate-services/index.html": {
+      "valid": true,
+      "has_article": false,
+      "has_legalservice": true,
+      "has_brand": false
+    },
+    "due-diligence-venezuela/index.html": {
+      "valid": true,
+      "has_article": false,
+      "has_legalservice": true,
+      "has_brand": false
+    },
+    "en/company-formation-venezuela/index.html": {
+      "valid": true,
+      "has_article": false,
+      "has_legalservice": true,
+      "has_brand": false
+    },
+    "en/corporate-services/index.html": {
+      "valid": true,
+      "has_article": false,
+      "has_legalservice": true,
+      "has_brand": false
+    },
+    "en/index.html": {
+      "valid": true,
+      "has_article": false,
+      "has_legalservice": true,
+      "has_brand": true
+    },
+    "en/insights/index.html": {
+      "valid": true,
+      "has_article": false,
+      "has_legalservice": true,
+      "has_brand": false
+    },
+    "en/insights/venezuela-market-entry-before-incorporating/index.html": {
+      "valid": true,
+      "has_article": true,
+      "has_legalservice": true,
+      "has_brand": true
+    },
+    "en/legal/index.html": {
+      "valid": true,
+      "has_article": false,
+      "has_legalservice": true,
+      "has_brand": false
+    },
+    "en/legal-due-diligence-venezuela/index.html": {
+      "valid": true,
+      "has_article": false,
+      "has_legalservice": true,
+      "has_brand": false
+    },
+    "en/market-entry-venezuela/index.html": {
+      "valid": true,
+      "has_article": false,
+      "has_legalservice": true,
+      "has_brand": false
+    },
+    "en/privacy/index.html": {
+      "valid": true,
+      "has_article": false,
+      "has_legalservice": true,
+      "has_brand": false
+    },
+    "en/thank-you/index.html": {
+      "valid": null
+    },
+    "en/venture-studio/index.html": {
+      "valid": true,
+      "has_article": false,
+      "has_legalservice": false,
+      "has_brand": true
+    },
+    "entrada-mercado-venezuela/index.html": {
+      "valid": true,
+      "has_article": false,
+      "has_legalservice": true,
+      "has_brand": false
+    },
+    "gracias/index.html": {
+      "valid": null
+    },
+    "index.html": {
+      "valid": true,
+      "has_article": false,
+      "has_legalservice": true,
+      "has_brand": true
+    },
+    "insights/entrada-mercado-venezuela-antes-de-constituir/index.html": {
+      "valid": true,
+      "has_article": true,
+      "has_legalservice": true,
+      "has_brand": true
+    },
+    "insights/index.html": {
+      "valid": true,
+      "has_article": false,
+      "has_legalservice": true,
+      "has_brand": false
+    },
+    "legal/index.html": {
+      "valid": true,
+      "has_article": false,
+      "has_legalservice": true,
+      "has_brand": false
+    },
+    "privacy/index.html": {
+      "valid": true,
+      "has_article": false,
+      "has_legalservice": true,
+      "has_brand": false
+    },
+    "venture-studio/index.html": {
+      "valid": true,
+      "has_article": false,
+      "has_legalservice": false,
+      "has_brand": true
+    }
+  },
+  "mobile_checks": {
+    "404.html": {
+      "viewport": true,
+      "media_queries": true
+    },
+    "constitucion-empresas-venezuela/index.html": {
+      "viewport": true,
+      "media_queries": true
+    },
+    "corporate-services/index.html": {
+      "viewport": true,
+      "media_queries": true
+    },
+    "due-diligence-venezuela/index.html": {
+      "viewport": true,
+      "media_queries": true
+    },
+    "en/company-formation-venezuela/index.html": {
+      "viewport": true,
+      "media_queries": true
+    },
+    "en/corporate-services/index.html": {
+      "viewport": true,
+      "media_queries": true
+    },
+    "en/index.html": {
+      "viewport": true,
+      "media_queries": true
+    },
+    "en/insights/index.html": {
+      "viewport": true,
+      "media_queries": true
+    },
+    "en/insights/venezuela-market-entry-before-incorporating/index.html": {
+      "viewport": true,
+      "media_queries": true
+    },
+    "en/legal/index.html": {
+      "viewport": true,
+      "media_queries": true
+    },
+    "en/legal-due-diligence-venezuela/index.html": {
+      "viewport": true,
+      "media_queries": true
+    },
+    "en/market-entry-venezuela/index.html": {
+      "viewport": true,
+      "media_queries": true
+    },
+    "en/privacy/index.html": {
+      "viewport": true,
+      "media_queries": true
+    },
+    "en/thank-you/index.html": {
+      "viewport": true,
+      "media_queries": true
+    },
+    "en/venture-studio/index.html": {
+      "viewport": true,
+      "media_queries": true
+    },
+    "entrada-mercado-venezuela/index.html": {
+      "viewport": true,
+      "media_queries": true
+    },
+    "gracias/index.html": {
+      "viewport": true,
+      "media_queries": true
+    },
+    "index.html": {
+      "viewport": true,
+      "media_queries": true
+    },
+    "insights/entrada-mercado-venezuela-antes-de-constituir/index.html": {
+      "viewport": true,
+      "media_queries": true
+    },
+    "insights/index.html": {
+      "viewport": true,
+      "media_queries": true
+    },
+    "legal/index.html": {
+      "viewport": true,
+      "media_queries": true
+    },
+    "privacy/index.html": {
+      "viewport": true,
+      "media_queries": true
+    },
+    "venture-studio/index.html": {
+      "viewport": true,
+      "media_queries": true
+    }
+  },
+  "h1_checks": {
+    "404.html": {
+      "count": 1,
+      "single_h1": true
+    },
+    "constitucion-empresas-venezuela/index.html": {
+      "count": 1,
+      "single_h1": true
+    },
+    "corporate-services/index.html": {
+      "count": 1,
+      "single_h1": true
+    },
+    "due-diligence-venezuela/index.html": {
+      "count": 1,
+      "single_h1": true
+    },
+    "en/company-formation-venezuela/index.html": {
+      "count": 1,
+      "single_h1": true
+    },
+    "en/corporate-services/index.html": {
+      "count": 1,
+      "single_h1": true
+    },
+    "en/index.html": {
+      "count": 1,
+      "single_h1": true
+    },
+    "en/insights/index.html": {
+      "count": 1,
+      "single_h1": true
+    },
+    "en/insights/venezuela-market-entry-before-incorporating/index.html": {
+      "count": 1,
+      "single_h1": true
+    },
+    "en/legal/index.html": {
+      "count": 1,
+      "single_h1": true
+    },
+    "en/legal-due-diligence-venezuela/index.html": {
+      "count": 1,
+      "single_h1": true
+    },
+    "en/market-entry-venezuela/index.html": {
+      "count": 1,
+      "single_h1": true
+    },
+    "en/privacy/index.html": {
+      "count": 1,
+      "single_h1": true
+    },
+    "en/thank-you/index.html": {
+      "count": 1,
+      "single_h1": true
+    },
+    "en/venture-studio/index.html": {
+      "count": 1,
+      "single_h1": true
+    },
+    "entrada-mercado-venezuela/index.html": {
+      "count": 1,
+      "single_h1": true
+    },
+    "gracias/index.html": {
+      "count": 1,
+      "single_h1": true
+    },
+    "index.html": {
+      "count": 1,
+      "single_h1": true
+    },
+    "insights/entrada-mercado-venezuela-antes-de-constituir/index.html": {
+      "count": 1,
+      "single_h1": true
+    },
+    "insights/index.html": {
+      "count": 1,
+      "single_h1": true
+    },
+    "legal/index.html": {
+      "count": 1,
+      "single_h1": true
+    },
+    "privacy/index.html": {
+      "count": 1,
+      "single_h1": true
+    },
+    "venture-studio/index.html": {
+      "count": 1,
+      "single_h1": true
+    }
+  },
+  "sitemap_validation": {
+    "url_count": 20,
+    "url_count_ok": true,
+    "article_es_present": true,
+    "article_en_present": true,
+    "hreflang_pair": true
+  },
+  "broken_links_count": 0,
+  "broken_links": [],
+  "broken_fragments_count": 0,
+  "broken_fragments": [],
+  "missing_assets_count": 0,
+  "missing_assets": [],
+  "target_blank_without_noopener_count": 0,
+  "target_blank_without_noopener": [],
+  "brand_scan": {
+    "404.html": {
+      "site_version_meta": 0,
+      "free_consultation": 0,
+      "esmeralda_corporate_services": 0,
+      "public_en_index": 0
+    },
+    "constitucion-empresas-venezuela/index.html": {
+      "site_version_meta": 0,
+      "free_consultation": 0,
+      "esmeralda_corporate_services": 0,
+      "public_en_index": 0
+    },
+    "corporate-services/index.html": {
+      "site_version_meta": 0,
+      "free_consultation": 0,
+      "esmeralda_corporate_services": 0,
+      "public_en_index": 0
+    },
+    "due-diligence-venezuela/index.html": {
+      "site_version_meta": 0,
+      "free_consultation": 0,
+      "esmeralda_corporate_services": 0,
+      "public_en_index": 0
+    },
+    "en/company-formation-venezuela/index.html": {
+      "site_version_meta": 0,
+      "free_consultation": 0,
+      "esmeralda_corporate_services": 0,
+      "public_en_index": 0
+    },
+    "en/corporate-services/index.html": {
+      "site_version_meta": 0,
+      "free_consultation": 0,
+      "esmeralda_corporate_services": 0,
+      "public_en_index": 0
+    },
+    "en/index.html": {
+      "site_version_meta": 0,
+      "free_consultation": 0,
+      "esmeralda_corporate_services": 0,
+      "public_en_index": 0
+    },
+    "en/insights/index.html": {
+      "site_version_meta": 0,
+      "free_consultation": 0,
+      "esmeralda_corporate_services": 0,
+      "public_en_index": 0
+    },
+    "en/insights/venezuela-market-entry-before-incorporating/index.html": {
+      "site_version_meta": 0,
+      "free_consultation": 0,
+      "esmeralda_corporate_services": 0,
+      "public_en_index": 0
+    },
+    "en/legal/index.html": {
+      "site_version_meta": 0,
+      "free_consultation": 0,
+      "esmeralda_corporate_services": 0,
+      "public_en_index": 0
+    },
+    "en/legal-due-diligence-venezuela/index.html": {
+      "site_version_meta": 0,
+      "free_consultation": 0,
+      "esmeralda_corporate_services": 0,
+      "public_en_index": 0
+    },
+    "en/market-entry-venezuela/index.html": {
+      "site_version_meta": 0,
+      "free_consultation": 0,
+      "esmeralda_corporate_services": 0,
+      "public_en_index": 0
+    },
+    "en/privacy/index.html": {
+      "site_version_meta": 0,
+      "free_consultation": 0,
+      "esmeralda_corporate_services": 0,
+      "public_en_index": 0
+    },
+    "en/thank-you/index.html": {
+      "site_version_meta": 0,
+      "free_consultation": 0,
+      "esmeralda_corporate_services": 0,
+      "public_en_index": 0
+    },
+    "en/venture-studio/index.html": {
+      "site_version_meta": 0,
+      "free_consultation": 0,
+      "esmeralda_corporate_services": 0,
+      "public_en_index": 0
+    },
+    "entrada-mercado-venezuela/index.html": {
+      "site_version_meta": 0,
+      "free_consultation": 0,
+      "esmeralda_corporate_services": 0,
+      "public_en_index": 0
+    },
+    "gracias/index.html": {
+      "site_version_meta": 0,
+      "free_consultation": 0,
+      "esmeralda_corporate_services": 0,
+      "public_en_index": 0
+    },
+    "index.html": {
+      "site_version_meta": 0,
+      "free_consultation": 0,
+      "esmeralda_corporate_services": 0,
+      "public_en_index": 0
+    },
+    "insights/entrada-mercado-venezuela-antes-de-constituir/index.html": {
+      "site_version_meta": 0,
+      "free_consultation": 0,
+      "esmeralda_corporate_services": 0,
+      "public_en_index": 0
+    },
+    "insights/index.html": {
+      "site_version_meta": 0,
+      "free_consultation": 0,
+      "esmeralda_corporate_services": 0,
+      "public_en_index": 0
+    },
+    "legal/index.html": {
+      "site_version_meta": 0,
+      "free_consultation": 0,
+      "esmeralda_corporate_services": 0,
+      "public_en_index": 0
+    },
+    "privacy/index.html": {
+      "site_version_meta": 0,
+      "free_consultation": 0,
+      "esmeralda_corporate_services": 0,
+      "public_en_index": 0
+    },
+    "venture-studio/index.html": {
+      "site_version_meta": 0,
+      "free_consultation": 0,
+      "esmeralda_corporate_services": 0,
+      "public_en_index": 0
+    }
+  },
+  "errors": [],
+  "warnings": []
+}
