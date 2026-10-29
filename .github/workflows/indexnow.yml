@@ -47,13 +47,13 @@ jobs:
 
           # IndexNow's verification TXT was already added to the website root.
           # Its filename must equal its content; no key needs to be committed here.
-          candidates = [p for p in ROOT.glob('*.txt')
-                        if re.fullmatch(r'[A-Za-z0-9-]{8,128}', p.stem)
-                        and p.read_text(encoding='utf-8').strip() == p.stem]
-          if len(candidates) != 1:
-              raise SystemExit('Expected one valid IndexNow key TXT in the repository root; found ' + str(len(candidates)))
-          key = candidates[0].stem
-          key_location = f'{BASE}/{candidates[0].name}'
+          
+          key_file = ROOT / 'aa3bed5a657348efbabdde1844444b73.txt'
+          if not key_file.is_file() or key_file.read_text(encoding='utf-8').strip() != key_file.stem:
+          raise SystemExit('IndexNow verification key file is missing or invalid')
+          key = key_file.stem
+          key_location = f'{BASE}/{key_file.name}'
+
 
           def site_url(path):
               p = Path(path)
