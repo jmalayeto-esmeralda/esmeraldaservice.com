@@ -1,0 +1,135 @@
+name: Esmeralda — IndexNow after website updates
+
+on:
+  push:
+  workflow_dispatch:
+    inputs:
+      url:
+        description: "Published URL to notify (manual test)"
+        required: true
+        default: "https://esmeraldaservice.com/en/insights/before-incorporating-venezuela-subsidiary-branch-contracts/"
+        type: string
+
+permissions:
+  contents: read
+
+jobs:
+  notify-indexnow:
+    if: github.ref_name == github.event.repository.default_branch
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out site source
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Notify IndexNow of published changes
+        env:
+          BEFORE_SHA: ${{ github.event.before }}
+          EVENT_NAME: ${{ github.event_name }}
+          MANUAL_URL: ${{ inputs.url }}
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          import hashlib
+          import json
+          import os
+          from pathlib import Path
+          import re
+          import subprocess
+          import time
+          from urllib.error import HTTPError, URLError
+          from urllib.request import Request, urlopen
+
+          HOST = 'esmeraldaservice.com'
+          BASE = f'https://{HOST}'
+          ROOT = Path('.')
+
+          # IndexNow's verification TXT was already added to the website root.
+          # Its filename must equal its content; no key needs to be committed here.
+          candidates = [p for p in ROOT.glob('*.txt')
+                        if re.fullmatch(r'[A-Za-z0-9-]{8,128}', p.stem)
+                        and p.read_text(encoding='utf-8').strip() == p.stem]
+          if len(candidates) != 1:
+              raise SystemExit('Expected one valid IndexNow key TXT in the repository root; found ' + str(len(candidates)))
+          key = candidates[0].stem
+          key_location = f'{BASE}/{candidates[0].name}'
+
+          def site_url(path):
+              p = Path(path)
+              if p.suffix.lower() != '.html' or p.name == '404.html':
+                  return None
+              if p.name == 'index.html':
+                  parent = str(p.parent).replace('\\', '/')
+                  return BASE + ('/' if parent == '.' else '/' + parent + '/')
+              return BASE + '/' + str(p).replace('\\', '/')
+
+          def get_changed_paths():
+              before = os.environ.get('BEFORE_SHA', '')
+              if before and before.strip('0'):
+                  args = ['git', 'diff', '--name-only', '--diff-filter=ACMR', before, 'HEAD']
+              else:
+                  args = ['git', 'diff-tree', '--no-commit-id', '--name-only', '-r', 'HEAD']
+              return subprocess.check_output(args, text=True).splitlines()
+
+          manual = os.environ.get('EVENT_NAME') == 'workflow_dispatch'
+          if manual:
+              url = os.environ.get('MANUAL_URL', '').strip()
+              if not url.startswith(BASE + '/'):
+                  raise SystemExit('Manual URL must belong to ' + BASE)
+              urls = [url]
+              print('Manual IndexNow submission for one URL.')
+          else:
+              changed = get_changed_paths()
+              changed_html = [p for p in changed if site_url(p) and Path(p).is_file()]
+              urls = sorted(set(site_url(p) for p in changed_html))
+              if not urls:
+                  print('No HTML pages were added or updated; nothing to notify.')
+                  raise SystemExit(0)
+              print(f'{len(urls)} changed HTML page(s) detected. Waiting for GitHub Pages to publish...')
+
+              # Wait until Pages serves the exact version in the pushed commit,
+              # rather than notifying while the previous deployment is still live.
+              for attempt in range(40):
+                  not_ready = []
+                  for path in changed_html:
+                      url = site_url(path)
+                      expected = hashlib.sha256(Path(path).read_bytes()).digest()
+                      try:
+                          probe = Request(url + ('&' if '?' in url else '?') + '__indexnow_check=' + os.environ.get('GITHUB_SHA', '')[:12],
+                                          headers={'User-Agent': 'Esmeralda-IndexNow-Deploy-Check/1.0'})
+                          with urlopen(probe, timeout=15) as response:
+                              actual = hashlib.sha256(response.read()).digest()
+                          if actual != expected:
+                              not_ready.append(url)
+                      except (HTTPError, URLError, TimeoutError):
+                          not_ready.append(url)
+                  if not not_ready:
+                      print('GitHub Pages deployment confirmed for updated HTML pages.')
+                      break
+                  if attempt == 39:
+                      raise SystemExit('Pages has not served the changed HTML within ten minutes: ' + ', '.join(not_ready))
+                  time.sleep(15)
+
+          body = json.dumps({
+              'host': HOST,
+              'key': key,
+              'keyLocation': key_location,
+              'urlList': urls,
+          }).encode('utf-8')
+          request = Request('https://api.indexnow.org/indexnow', data=body,
+                            headers={'Content-Type': 'application/json; charset=utf-8',
+                                     'User-Agent': 'Esmeralda-IndexNow/1.0'},
+                            method='POST')
+          try:
+              with urlopen(request, timeout=25) as response:
+                  status = response.status
+                  print('IndexNow HTTP status:', status)
+                  print('Submitted URLs:', *urls, sep='\n- ')
+                  if status not in (200, 202):
+                      raise SystemExit('Unexpected status: ' + str(status))
+          except HTTPError as exc:
+              print('IndexNow rejected the submission. HTTP:', exc.code)
+              print(exc.read().decode('utf-8', errors='replace')[:500])
+              raise
+          PY
