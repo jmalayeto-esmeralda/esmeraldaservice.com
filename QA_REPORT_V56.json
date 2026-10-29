@@ -1,0 +1,74 @@
+{
+  "version": "V56",
+  "date": "2026-10-29",
+  "status": "PASS",
+  "created": [
+    "insights/antes-de-constituir-venezuela-filial-sucursal-contratos/index.html",
+    "en/insights/before-incorporating-venezuela-subsidiary-branch-contracts/index.html"
+  ],
+  "tests": {
+    "es": {
+      "single_h1": true,
+      "canonical": true,
+      "hreflang": true,
+      "article_has_table": true,
+      "article_table_scrollable": true,
+      "article_has_faq": true,
+      "toc_anchors_valid": true,
+      "all_links_internal_resolve": true,
+      "schema_valid": true,
+      "approved_text_preserved": true
+    },
+    "en": {
+      "single_h1": true,
+      "canonical": true,
+      "hreflang": true,
+      "article_has_table": true,
+      "article_table_scrollable": true,
+      "article_has_faq": true,
+      "toc_anchors_valid": true,
+      "all_links_internal_resolve": true,
+      "schema_valid": true,
+      "approved_text_preserved": true
+    },
+    "es_hub_link": true,
+    "es_third_coming_soon": true,
+    "en_hub_link": true,
+    "en_third_coming_soon": true,
+    "es_article1_related_link": true,
+    "en_article1_related_link": true,
+    "sitemap_valid_xml": true,
+    "sitemap_bilingual_pages": true,
+    "existing_site_root_kept": true,
+    "es_desktop_browser": {
+      "pageWidth": 1440,
+      "viewport": 1440,
+      "scrollableTable": false,
+      "heading": "Antes de constituir: primero la estructura — tres formas de entrar a Venezuela",
+      "toc": true
+    },
+    "es_mobile_browser": {
+      "pageWidth": 390,
+      "viewport": 390,
+      "scrollableTable": true,
+      "heading": "Antes de constituir: primero la estructura — tres formas de entrar a Venezuela",
+      "toc": true
+    },
+    "en_desktop_browser": {
+      "pageWidth": 1440,
+      "viewport": 1440,
+      "scrollableTable": false,
+      "heading": "Before You Incorporate: Structure First — Three Ways to Enter Venezuela",
+      "toc": true
+    },
+    "en_mobile_browser": {
+      "pageWidth": 390,
+      "viewport": 390,
+      "scrollableTable": true,
+      "heading": "Before You Incorporate: Structure First — Three Ways to Enter Venezuela",
+      "toc": true
+    },
+    "article1_body_unchanged_es": true,
+    "article1_body_unchanged_en": true
+  }
+}

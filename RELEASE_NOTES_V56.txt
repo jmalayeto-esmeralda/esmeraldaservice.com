@@ -1,0 +1,24 @@
+ESMERALDA V56 — INSIGHTS #2 BILINGUAL PUBLICATION CANDIDATE
+Generated: 2026-10-29
+Source: V55 corrected ZIP + approved Esmeralda Insights article #2 release package.
+
+New pages:
+- /insights/antes-de-constituir-venezuela-filial-sucursal-contratos/
+- /en/insights/before-incorporating-venezuela-subsidiary-branch-contracts/
+
+Changes:
+- V55 article template preserved (branding, navigation, author, typography, CTA, footer, mobile responsive layout).
+- Complete approved ES and EN texts inserted, including comparison table, FAQs and legal disclaimers. No substantive edits.
+- Comparison table has horizontal scroll and accessibility label for small screens.
+- Linked the approved second article from Insights hub in both languages; third article remains Coming Soon.
+- Added a related-article link to each first-article TOC sidebar; first-article approved body not edited.
+- SEO metadata, canonical, reciprocal hreflang, Article/WebPage/BreadcrumbList structured data and sitemap updated.
+- Reused V55's approved abstract market-entry image to maintain the editorial design; a dedicated #2 image may be substituted later.
+- The rest of the site, including DNS/email, unchanged.
+
+IMPORTANT BEFORE PRODUCTION:
+- Publication date in this release candidate is 2026-10-29, matching preparation day. If deployed later, update both HTML timestamps, structured data, hub cards and sitemap to the actual publication date.
+- No automatic deployment has occurred. Upload/extract all site-root contents to the existing GitHub Pages publisher (same workflow as V55).
+- After deployment: test both URLs, toggle ES/EN, anchors and mobile table, canonical and hreflang, then request Google/Bing indexing.
+
+Visual smoke tests: Desktop (1440px) and mobile (390px) layouts passed for both languages; no page-wide overflow; comparison table scrolls horizontally in mobile. Render test omits remote fonts/images due to environment restrictions.
