@@ -49,8 +49,8 @@ jobs:
           # Its filename must equal its content; no key needs to be committed here.
           
           key_file = ROOT / 'aa3bed5a657348efbabdde1844444b73.txt'
-              if not key_file.is_file() or key_file.read_text(encoding='utf-8').strip() != key_file.stem:
-          raise SystemExit('IndexNow verification key file is missing or invalid')
+          if not key_file.is_file() or key_file.read_text(encoding='utf-8').strip() != key_file.stem:
+              raise SystemExit('IndexNow verification key file is missing or invalid')
           key = key_file.stem
           key_location = f'{BASE}/{key_file.name}'
 
