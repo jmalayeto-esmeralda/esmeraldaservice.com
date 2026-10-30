@@ -1,0 +1,21 @@
+ESMERALDA LEGAL SERVICES — V57
+Insights editorial redesign | 29 October 2026
+
+BASIS: V56 bilingual website provided in this conversation.
+
+Changes:
+- ES and EN Insights indexes: Article #2 is now the main full-width featured publication, using the approved user-supplied artwork.
+- Article #1 moves below into a visual archive card retaining its original image.
+- Article #3 remains marked Coming soon / Próximamente.
+- Article #2 full articles now show their own artwork and social-sharing OG / Twitter image.
+- ES / EN Index ItemList JSON-LD now includes both published articles in correct order.
+- The full artwork was adapted from the approved upload to a web/social-optimized 1200 x 627 PNG.
+- No article body, URL, navigation, form or service page content was changed.
+
+Deployment with GitHub Pages:
+1. Upload the website contents (not the enclosing local folder) to the existing repository, retaining paths.
+2. Keep the existing .github/workflows/indexnow.yml and the IndexNow verification .txt file(s): they were added separately after the V56 snapshot and are NOT replaced or removed by these V57 files.
+3. After GitHub Pages deploys, check /insights/ and /en/insights/, the two article URLs, and social-sharing image previews.
+4. The established GitHub Actions IndexNow job should automatically notify HTML URLs changed by the V57 commit. Check its logs.
+
+Note on multilingual artwork: The original artwork supplied by the client contains Spanish text. The same approved graphic is intentionally used in both language versions. The English version of the site continues to present all editorial HTML text in English; a separate English-language artwork can be added if desired.
