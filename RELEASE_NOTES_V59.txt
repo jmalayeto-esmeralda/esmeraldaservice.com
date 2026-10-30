@@ -1,0 +1,33 @@
+ESMERALDA V59 — IMMIGRATION SERVICES + BRAND-SAFE CATALOG SPLIT
+Consolidated final build | 2026-10-30
+
+BASE
+The prior V59 was used as the only source for this consolidation; no V60 was created.
+
+COMMERCIAL COPY
+- Refined the Spanish and English immigration landing pages with a clearer client-facing explanation of the service, case intake, documentation and consular coordination.
+- Added 'Alcance y honorarios / Scope and fees' explaining three engagement levels: initial assessment, application support, and integrated/multiple-applicant matters.
+- Service fees are quoted by written proposal after reviewing the matter; consular/government and third-party expenses are itemized separately unless expressly included.
+- No supplier or subcontractor rates from the source PDF were published as Esmeralda client fees.
+- Removed the generalized 15-day-to-one-month visa-processing reference. Timelines and approval depend on the authority and case particulars.
+- Added links to official Ministry of Foreign Affairs and Cancillería Digital resources.
+
+CATALOG SPLIT
+- Homepage ES: 'Derecho Laboral' and 'Servicios Migratorios y Visas' are separate practice cards.
+- Homepage EN: 'Labor and Employment Law' and 'Immigration and Visa Services' are separate practice cards.
+- Retained labor CTA to homepage contact; added immigration CTA to its dedicated ES/EN landing.
+- Separated labor and immigration choices in the existing contact form, preserving its submission backend.
+- Corrected homepage footer capabilities/solutions links and refreshed the OfferCatalog JSON-LD in both languages to show eight distinct services. Provider remains #legalservice.
+
+VISUAL & TECHNICAL
+- Reused the existing Esmeralda Legal Services visual system and brand mark.
+- Retained /servicios-migratorios-venezuela/ and /en/venezuela-immigration-visa-services/ with canonical, ES/EN/x-default hreflang, WebPage/Service/BreadcrumbList structured data, and Open Graph/Twitter metadata.
+- Retained internal Market Entry links, same two sitemap entries, CNAME, robots.txt, .nojekyll, forms, website hosting paths and existing Insights content.
+- Refined mobile navbar/title fit for the new service pages, and the EN/ES homepage footer mobile grid.
+- Retained the round WhatsApp image and changed the floating icon to compact 54px sitewide while keeping the original WhatsApp number and link behavior.
+
+QUALITY ASSURANCE
+See QA_REPORT_V59.json for actual counts, static link/asset/fragment checks, schema parse, metadata checks and desktop/mobile Chromium layout tests. Live external navigation, external font/image network requests and live Web3Forms submissions were not exercised.
+
+COMMIT SUGGESTION
+Immigration services and labor separation V59

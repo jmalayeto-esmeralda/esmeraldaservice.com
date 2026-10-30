@@ -1,0 +1,171 @@
+{
+  "version": "V59 — Immigration Services Launch + WhatsApp Icon (consolidated)",
+  "base": "esmeralda-v59-immigration-services-whatsapp-update.zip",
+  "status": "PASS",
+  "html_pages_reviewed": 27,
+  "indexable_urls_in_sitemap": 24,
+  "new_sitemap_urls": [
+    "https://esmeraldaservice.com/servicios-migratorios-venezuela/",
+    "https://esmeraldaservice.com/en/venezuela-immigration-visa-services/"
+  ],
+  "new_sitemap_urls_present": true,
+  "sitemap_urls_without_files": [],
+  "broken_internal_links": [],
+  "broken_fragments": [],
+  "missing_assets": [],
+  "target_blank_without_noopener": [],
+  "jsonld_parse_errors": [],
+  "canonical_mismatches": [],
+  "hreflang_missing": [],
+  "h1_exceptions": [],
+  "legacy_combined_labor_immigration_cards": [],
+  "price_methodology_blocks": {
+    "es": true,
+    "en": true
+  },
+  "homepage_forms": {
+    "index.html": {
+      "action": "https://api.web3forms.com/submit",
+      "method": "POST",
+      "service_options": [
+        "Derecho Corporativo, Mercantil y M&A",
+        "Derecho Laboral",
+        "Servicios Migratorios y Visas",
+        "Propiedad Intelectual",
+        "Derecho Tributario y Fiscal",
+        "Litigios y Resolución de Conflictos",
+        "Compliance y Normativa",
+        "Derecho Administrativo",
+        "Entrada al Mercado Venezolano",
+        "Derecho Societario Internacional",
+        "Estructuración y Estrategia de Negocios"
+      ],
+      "unique_options": true
+    },
+    "en/index.html": {
+      "action": "https://api.web3forms.com/submit",
+      "method": "POST",
+      "service_options": [
+        "Corporate and Commercial Law",
+        "Labor and Employment Law",
+        "Immigration and Visa Services",
+        "Intellectual Property",
+        "Tax and Fiscal Law",
+        "Litigation and Dispute Resolution",
+        "Compliance and Regulatory Matters",
+        "Administrative Law",
+        "Venezuelan Market Entry",
+        "International Corporate Law",
+        "Business Structuring and Strategy"
+      ],
+      "unique_options": true
+    }
+  },
+  "layout_checks": [
+    {
+      "page": "index.html",
+      "viewport": "desktop",
+      "horizontal_overflow_px": 0,
+      "whatsapp_diameter_px": 54
+    },
+    {
+      "page": "en/index.html",
+      "viewport": "desktop",
+      "horizontal_overflow_px": 0,
+      "whatsapp_diameter_px": 54
+    },
+    {
+      "page": "servicios-migratorios-venezuela/index.html",
+      "viewport": "desktop",
+      "horizontal_overflow_px": 0,
+      "whatsapp_diameter_px": 54
+    },
+    {
+      "page": "en/venezuela-immigration-visa-services/index.html",
+      "viewport": "desktop",
+      "horizontal_overflow_px": 0,
+      "whatsapp_diameter_px": 54
+    },
+    {
+      "page": "insights/index.html",
+      "viewport": "desktop",
+      "horizontal_overflow_px": 0,
+      "whatsapp_diameter_px": 54
+    },
+    {
+      "page": "en/insights/index.html",
+      "viewport": "desktop",
+      "horizontal_overflow_px": 0,
+      "whatsapp_diameter_px": 54
+    },
+    {
+      "page": "entrada-mercado-venezuela/index.html",
+      "viewport": "desktop",
+      "horizontal_overflow_px": 0,
+      "whatsapp_diameter_px": 54
+    },
+    {
+      "page": "en/market-entry-venezuela/index.html",
+      "viewport": "desktop",
+      "horizontal_overflow_px": 0,
+      "whatsapp_diameter_px": 54
+    },
+    {
+      "page": "index.html",
+      "viewport": "mobile",
+      "horizontal_overflow_px": 0,
+      "whatsapp_diameter_px": 54
+    },
+    {
+      "page": "en/index.html",
+      "viewport": "mobile",
+      "horizontal_overflow_px": 0,
+      "whatsapp_diameter_px": 54
+    },
+    {
+      "page": "servicios-migratorios-venezuela/index.html",
+      "viewport": "mobile",
+      "horizontal_overflow_px": 0,
+      "whatsapp_diameter_px": 54
+    },
+    {
+      "page": "en/venezuela-immigration-visa-services/index.html",
+      "viewport": "mobile",
+      "horizontal_overflow_px": 0,
+      "whatsapp_diameter_px": 54
+    },
+    {
+      "page": "insights/index.html",
+      "viewport": "mobile",
+      "horizontal_overflow_px": 0,
+      "whatsapp_diameter_px": 54
+    },
+    {
+      "page": "en/insights/index.html",
+      "viewport": "mobile",
+      "horizontal_overflow_px": 0,
+      "whatsapp_diameter_px": 54
+    },
+    {
+      "page": "entrada-mercado-venezuela/index.html",
+      "viewport": "mobile",
+      "horizontal_overflow_px": 0,
+      "whatsapp_diameter_px": 54
+    },
+    {
+      "page": "en/market-entry-venezuela/index.html",
+      "viewport": "mobile",
+      "horizontal_overflow_px": 0,
+      "whatsapp_diameter_px": 54
+    }
+  ],
+  "layout_failures": [],
+  "brand_and_service_schema_checks": {
+    "homepage_es_offer_count": 8,
+    "homepage_en_offer_count": 8
+  },
+  "limitations": [
+    "Browser layout checked with inline HTML/CSS in Chromium; linked webfonts and assets were not loaded in this isolated rendering environment.",
+    "External live URLs and actual Web3Forms submission were not exercised."
+  ]
+}
