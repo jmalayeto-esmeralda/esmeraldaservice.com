@@ -1,0 +1,136 @@
+{
+  "release": "esmeralda-v61-international-partners-refinement",
+  "base": "esmeralda-v60-international-partners.zip",
+  "checked_date": "2026-11-06",
+  "result": "PASS",
+  "pages_reviewed": 29,
+  "sitemap_indexable_urls": 26,
+  "broken_internal_links": [],
+  "broken_fragments": [],
+  "missing_assets": [],
+  "external_target_blank_missing_noopener": [],
+  "invalid_jsonld_or_js": [],
+  "h1_count_exceptions": [],
+  "partner_form_checks": {
+    "es": {
+      "form_present": true,
+      "endpoint": true,
+      "access_key_reuses_existing": true,
+      "honeypot": true,
+      "required_fields": true,
+      "email_type_email": true,
+      "privacy_link": true,
+      "status_aria_live": true,
+      "status_only_success_after_backend_response": true,
+      "error_feedback": true,
+      "no_confidential_documents_note": true,
+      "correct_options": true,
+      "mobile_nav_accessible": true,
+      "lang_switch": true,
+      "modalities_count": true,
+      "corporate_link": true,
+      "privacy_footer": true,
+      "legal_footer": true,
+      "social_footer": true
+    },
+    "en": {
+      "form_present": true,
+      "endpoint": true,
+      "access_key_reuses_existing": true,
+      "honeypot": true,
+      "required_fields": true,
+      "email_type_email": true,
+      "privacy_link": true,
+      "status_aria_live": true,
+      "status_only_success_after_backend_response": true,
+      "error_feedback": true,
+      "no_confidential_documents_note": true,
+      "correct_options": true,
+      "mobile_nav_accessible": true,
+      "lang_switch": true,
+      "modalities_count": true,
+      "corporate_link": true,
+      "privacy_footer": true,
+      "legal_footer": true,
+      "social_footer": true
+    }
+  },
+  "partner_seo_checks": {
+    "es": {
+      "canonical": true,
+      "h1_count": true,
+      "hreflang": true,
+      "open_graph_image": true,
+      "twitter_image": true,
+      "hero_uses_webp": true,
+      "no_old_insights_hero": true,
+      "mobile_css": true,
+      "service_provider_ref": true
+    },
+    "en": {
+      "canonical": true,
+      "h1_count": true,
+      "hreflang": true,
+      "open_graph_image": true,
+      "twitter_image": true,
+      "hero_uses_webp": true,
+      "no_old_insights_hero": true,
+      "mobile_css": true,
+      "service_provider_ref": true
+    }
+  },
+  "corporate_services_cta_checks": {
+    "es": {
+      "link": true,
+      "approved_heading": true
+    },
+    "en": {
+      "link": true,
+      "approved_heading": true
+    }
+  },
+  "new_image_checks": {
+    "partners-international-hero-1600.webp": {
+      "exists": true,
+      "dimensions": [
+        1600,
+        736
+      ],
+      "size_kib": 178.7,
+      "pixel_variance": 4677.16,
+      "not_blank": true
+    },
+    "partners-international-hero-900.webp": {
+      "exists": true,
+      "dimensions": [
+        900,
+        414
+      ],
+      "size_kib": 68.9,
+      "pixel_variance": 4594.46,
+      "not_blank": true
+    },
+    "partners-international-social.jpg": {
+      "exists": true,
+      "dimensions": [
+        1200,
+        630
+      ],
+      "size_kib": 237.7,
+      "pixel_variance": 4739.53,
+      "not_blank": true
+    }
+  },
+  "changes_vs_v60": [
+    "en/corporate-services/index.html",
+    "en/partners/index.html",
+    "partners/index.html",
+    "corporate-services/index.html"
+  ],
+  "removed_original_files": [],
+  "browser_desktop_mobile": "NOT VERIFIED — local browser navigation blocked by administrator in this session",
+  "real_backend_delivery": "NOT VERIFIED — external submission was deliberately not executed; existing site Web3Forms access key reused",
+  "recommendations": "After deployment submit one authorized test inquiry in each language and verify receipt at jma@esmeraldaservice.com; visually check at 390/768/1024/1366 px.",
+  "errors": [],
+  "warnings": []
+}

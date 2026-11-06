@@ -1,0 +1,43 @@
+ESMERALDA V61 — INTERNATIONAL PARTNERS REFINEMENT
+Date: 2026-11-06
+Base: esmeralda-v60-international-partners.zip
+
+Changes limited to:
+- partners/index.html
+- en/partners/index.html
+- corporate-services/index.html
+- en/corporate-services/index.html
+- assets/partners-international-hero-1600.webp (NEW)
+- assets/partners-international-hero-900.webp (NEW)
+- assets/partners-international-social.jpg (NEW)
+- QA_REPORT_V61.json (NEW)
+- RELEASE_NOTES_V61.txt (NEW)
+
+Partner landing pages ES / EN:
+- Added a real Web3Forms-backed bilingual partner inquiry form using the existing site access key.
+- Added required name, organization, country, business email, collaboration type, message and consent.
+- Included a hidden spam honeypot, HTML5 email validation and a privacy-policy link.
+- Added in-page success/error messaging driven strictly by the Web3Forms API response (application/json).
+- Preserved direct email and WhatsApp options; hero primary CTA now scrolls to the new form.
+- Added two collaboration modes: matter-based and recurring corporate services.
+- Refined the partner-led professional capacity paragraph in both languages.
+- Replaced the old shared Insights hero with an exclusive architectural image; added WebP responsive sources and JPEG social preview.
+- Updated only Partners meta descriptions and social-preview images; unchanged canonical, hreflang, slugs and entity IDs.
+- Added existing privacy, legal and LinkedIn links to Partners footer.
+- Added accessible mobile navigation toggle for Partners while retaining desktop navigation styling.
+
+Corporate Services ES / EN:
+- Updated the already-existing partner referral callout to the approved positioning and CTA text.
+
+Preserved:
+- Homepages ES/EN, all Insights articles and hubs, Venture Studio, company formation, market entry,
+  due diligence, immigration, privacy/legal pages, assets and other V60 functionality.
+- Sitemap's 26 URL entries and existing lastmod values (already dated 2026-11-06).
+- GitHub Pages / Netlify-compatible static structure.
+
+Verification:
+- Static QA: PASS — see QA_REPORT_V61.json.
+- Browser visual QA: NOT VERIFIED in this session because the local browser denied navigation.
+- Live email receipt: NOT VERIFIED. Before production acceptance, submit a consenting test inquiry
+  on each language page and verify receipt at jma@esmeraldaservice.com.
+- The service uses Web3Forms, which is already configured for the site's existing contact form.
