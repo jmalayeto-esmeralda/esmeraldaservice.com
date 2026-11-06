@@ -1,0 +1,76 @@
+ESMERALDA V60 — INTERNATIONAL PARTNERS / ALIANZAS PROFESIONALES
+Date: 2026-11-06
+Baseline: V59 immigration services + WhatsApp icon release
+
+Purpose
+- Launch a bilingual institutional page for international professional collaborations.
+- Present Esmeralda Legal Services as Venezuelan local counsel and corporate services partner.
+- Respect existing client relationships and avoid informal referral/affiliate or freelance positioning.
+- Preserve existing service verticals, brand architecture, approved content, and infrastructure.
+
+New pages
+- /partners/  (Alianzas Profesionales)
+- /en/partners/  (For International Partners)
+
+Added
+- Partner audiences: law firms, corporate service providers, trust/wealth firms, advisers.
+- Six coordinated service categories with links to existing service pages.
+- Four-stage coordinated engagement model, flexible specialist capacity, confidentiality/trust.
+- Direct email and WhatsApp CTAs to existing confirmed contacts.
+- Canonical, hreflang es/en/x-default, Open Graph, Twitter, WebPage/Service/BreadcrumbList.
+- Two sitemap entries; sitemap now contains 26 indexable URLs.
+- For Partners / Alianzas links in current navigations and footers, plus relevant Corporate Services / Market Entry modules.
+
+Preserved
+- GitHub Pages root architecture, CNAME, .nojekyll, robots, site.webmanifest.
+- Existing 24 sitemap URLs and original assets; all 21 existing asset files remain byte-identical.
+- Current approved Insights and Venture Studio body content and existing business service pages.
+
+New file paths (including release artifacts)
+- QA_REPORT_V60.json
+- RELEASE_NOTES_V60.txt
+- en/partners/index.html
+- partners/index.html
+
+Existing files modified (27 files)
+- constitucion-empresas-venezuela/index.html
+- corporate-services/index.html
+- due-diligence-venezuela/index.html
+- en/company-formation-venezuela/index.html
+- en/corporate-services/index.html
+- en/index.html
+- en/insights/before-incorporating-venezuela-subsidiary-branch-contracts/index.html
+- en/insights/index.html
+- en/insights/venezuela-market-entry-before-incorporating/index.html
+- en/legal-due-diligence-venezuela/index.html
+- en/legal/index.html
+- en/market-entry-venezuela/index.html
+- en/privacy/index.html
+- en/thank-you/index.html
+- en/venezuela-immigration-visa-services/index.html
+- en/venture-studio/index.html
+- entrada-mercado-venezuela/index.html
+- gracias/index.html
+- index.html
+- insights/antes-de-constituir-venezuela-filial-sucursal-contratos/index.html
+- insights/entrada-mercado-venezuela-antes-de-constituir/index.html
+- insights/index.html
+- legal/index.html
+- privacy/index.html
+- servicios-migratorios-venezuela/index.html
+- sitemap.xml
+- venture-studio/index.html
+
+QA
+- Static check: PASS.
+- HTML: 29 pages; sitemap: 26 URLs.
+- Broken links: 0; broken fragments: 0; missing assets: 0.
+- JSON-LD: parsed and validated on all pages that declare it.
+- Responsive: new ES/EN partner pages inspected in Chromium at 390, 1024 and 1366px with no horizontal overflow.
+- Browser preview used offline/injected assets because direct browsing was not available; live actions and deploy remain to be tested.
+
+Deployment
+- Unzip the package; upload its CONTENTS (not a container folder) to repo root on main.
+- This layout also works as a static-site Netlify upload, but the production deployment remains GitHub Pages.
+
+Suggested commit: International partners and local counsel expansion V60

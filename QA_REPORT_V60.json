@@ -1,0 +1,64 @@
+{
+  "version": "V60",
+  "baseline": "V59",
+  "qa_date": "2026-11-06",
+  "result": "PASS",
+  "html_pages_reviewed": 29,
+  "sitemap_url_count": 26,
+  "broken_links": [],
+  "broken_fragments": [],
+  "missing_assets": [],
+  "unsafe_target_blank": [],
+  "invalid_json_ld": [],
+  "missing_meta": [],
+  "h1_checks": [],
+  "issues": [],
+  "notes": [
+    "Static offline validation of link targets, fragments, assets, schema JSON, canonical and sitemap.",
+    "Headless Chromium desktop/mobile screenshots evaluated separately.",
+    "External mailto/WhatsApp actions not executed."
+  ],
+  "new_pages_canonical_hreflang": {
+    "es": "https://esmeraldaservice.com/partners/",
+    "en": "https://esmeraldaservice.com/en/partners/",
+    "x-default": "https://esmeraldaservice.com/partners/"
+  },
+  "new_pages_schema": [
+    "WebPage",
+    "Service",
+    "BreadcrumbList"
+  ],
+  "partner_cta": "Existing email (jma@esmeraldaservice.com) and WhatsApp number",
+  "visual_validation": {
+    "checked_paths": [
+      "/",
+      "/corporate-services/",
+      "/en/",
+      "/en/corporate-services/",
+      "/en/partners/",
+      "/en/venture-studio/",
+      "/partners/",
+      "/venture-studio/"
+    ],
+    "viewports": [
+      390,
+      1024,
+      1366
+    ],
+    "tested_page_viewport_combinations": 24,
+    "new_partner_pages_horizontal_overflow": 0,
+    "new_partner_pages_hero_images_load": true,
+    "warnings": [
+      "Existing EN Venture Studio shows a one-pixel width discrepancy at 390px in the offline Chromium preview; its approved main content was not modified."
+    ]
+  },
+  "preservation": {
+    "original_assets_byte_identical": true,
+    "insights_ES_EN_main_content_unchanged": true,
+    "insights_articles_ES_EN_main_content_unchanged": true,
+    "venture_studio_ES_EN_main_content_unchanged": true,
+    "sitemap_original_24_urls_preserved": true,
+    "git_pages_CNAME_nojekyll_preserved": true
+  },
+  "external_services_not_tested": "Emails and WhatsApp were not actually sent; production deploy and live-site testing remain pending."
+}

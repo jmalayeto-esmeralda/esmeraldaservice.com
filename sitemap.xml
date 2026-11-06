@@ -59,7 +59,7 @@
 
   <url>
     <loc>https://esmeraldaservice.com/</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.00</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://esmeraldaservice.com/" />
@@ -68,7 +68,7 @@
   </url>
   <url>
     <loc>https://esmeraldaservice.com/en/</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.90</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://esmeraldaservice.com/" />
@@ -77,7 +77,7 @@
   </url>
   <url>
     <loc>https://esmeraldaservice.com/corporate-services/</loc>
-    <lastmod>2026-10-09</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://esmeraldaservice.com/corporate-services/" />
@@ -86,7 +86,7 @@
   </url>
   <url>
     <loc>https://esmeraldaservice.com/en/corporate-services/</loc>
-    <lastmod>2026-10-09</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://esmeraldaservice.com/corporate-services/" />
@@ -113,7 +113,7 @@
   </url>
   <url>
     <loc>https://esmeraldaservice.com/entrada-mercado-venezuela/</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://esmeraldaservice.com/entrada-mercado-venezuela/" />
@@ -122,7 +122,7 @@
   </url>
   <url>
     <loc>https://esmeraldaservice.com/en/market-entry-venezuela/</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://esmeraldaservice.com/entrada-mercado-venezuela/" />
@@ -220,5 +220,23 @@
     <xhtml:link rel="alternate" hreflang="es" href="https://esmeraldaservice.com/servicios-migratorios-venezuela/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://esmeraldaservice.com/en/venezuela-immigration-visa-services/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://esmeraldaservice.com/servicios-migratorios-venezuela/" />
+  </url>
+  <url>
+    <loc>https://esmeraldaservice.com/partners/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.72</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esmeraldaservice.com/partners/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://esmeraldaservice.com/en/partners/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esmeraldaservice.com/partners/" />
+  </url>
+  <url>
+    <loc>https://esmeraldaservice.com/en/partners/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.72</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esmeraldaservice.com/partners/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://esmeraldaservice.com/en/partners/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esmeraldaservice.com/partners/" />
   </url>
 </urlset>
