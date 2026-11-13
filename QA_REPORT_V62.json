@@ -1,0 +1,237 @@
+{
+  "release": "esmeralda-v62-security-performance-optimization",
+  "base": "esmeralda-v61-international-partners-refinement.zip",
+  "audit_date": "2026-11-13",
+  "status": "PASS_STATIC_AND_SIMULATED_BROWSER__LIVE_ACCEPTANCE_PENDING",
+  "tests": {
+    "editorial_body_preserved": 29,
+    "meta_structural_preserved": 29,
+    "hreflang_preserved": 29,
+    "csp_hashes_verified": 29,
+    "local_asset_or_link_valid": 748,
+    "js_syntax_ok": 26,
+    "blank_links_secure": 66,
+    "responsive_asset_valid": 4,
+    "sitemap_url_valid": 26
+  },
+  "html_pages": 29,
+  "indexable_sitemap_urls": 26,
+  "jsonld_blocks_parsed": 26,
+  "web3forms_count": 6,
+  "forms": {
+    "en/index.html": {
+      "endpoint_unchanged": true,
+      "access_key_unchanged": true,
+      "email_required": true,
+      "honeypot_present": true,
+      "explicit_consent": false,
+      "privacy_link_on_form": true
+    },
+    "en/partners/index.html": {
+      "endpoint_unchanged": true,
+      "access_key_unchanged": true,
+      "email_required": true,
+      "honeypot_present": true,
+      "explicit_consent": true,
+      "privacy_link_on_form": true
+    },
+    "en/venture-studio/index.html": {
+      "endpoint_unchanged": true,
+      "access_key_unchanged": true,
+      "email_required": true,
+      "honeypot_present": true,
+      "explicit_consent": false,
+      "privacy_link_on_form": false
+    },
+    "index.html": {
+      "endpoint_unchanged": true,
+      "access_key_unchanged": true,
+      "email_required": true,
+      "honeypot_present": true,
+      "explicit_consent": false,
+      "privacy_link_on_form": true
+    },
+    "partners/index.html": {
+      "endpoint_unchanged": true,
+      "access_key_unchanged": true,
+      "email_required": true,
+      "honeypot_present": true,
+      "explicit_consent": true,
+      "privacy_link_on_form": true
+    },
+    "venture-studio/index.html": {
+      "endpoint_unchanged": true,
+      "access_key_unchanged": true,
+      "email_required": true,
+      "honeypot_present": true,
+      "explicit_consent": false,
+      "privacy_link_on_form": false
+    }
+  },
+  "optimized_images": {
+    "assets/mauricio-tancredi-vegas.webp": {
+      "source_bytes": 1909067,
+      "optimized_bytes": 221354,
+      "savings_pct": 88.4,
+      "psnr_db": 49.13,
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "source_unchanged": true
+    },
+    "assets/jose-manuel-alayeto.webp": {
+      "source_bytes": 1786697,
+      "optimized_bytes": 150452,
+      "savings_pct": 91.6,
+      "psnr_db": 48.83,
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "source_unchanged": true
+    },
+    "assets/insights/venezuela-market-entry-2026-hero.webp": {
+      "source_bytes": 1172791,
+      "optimized_bytes": 255988,
+      "savings_pct": 78.2,
+      "psnr_db": 46.11,
+      "dimensions": [
+        1200,
+        627
+      ],
+      "source_unchanged": true
+    },
+    "assets/insights/venezuela-three-entry-structures-2026.webp": {
+      "source_bytes": 1029376,
+      "optimized_bytes": 195622,
+      "savings_pct": 81.0,
+      "psnr_db": 47.15,
+      "dimensions": [
+        1200,
+        627
+      ],
+      "source_unchanged": true
+    },
+    "assets/insights/venezuela-three-entry-structures-2026-en.webp": {
+      "source_bytes": 2490837,
+      "optimized_bytes": 347700,
+      "savings_pct": 86.0,
+      "psnr_db": 49.36,
+      "dimensions": [
+        1672,
+        941
+      ],
+      "source_unchanged": true
+    }
+  },
+  "changed_files_vs_v61": [
+    "404.html",
+    "constitucion-empresas-venezuela/index.html",
+    "corporate-services/index.html",
+    "due-diligence-venezuela/index.html",
+    "en/company-formation-venezuela/index.html",
+    "en/corporate-services/index.html",
+    "en/index.html",
+    "en/insights/before-incorporating-venezuela-subsidiary-branch-contracts/index.html",
+    "en/insights/index.html",
+    "en/insights/venezuela-market-entry-before-incorporating/index.html",
+    "en/legal-due-diligence-venezuela/index.html",
+    "en/legal/index.html",
+    "en/market-entry-venezuela/index.html",
+    "en/partners/index.html",
+    "en/privacy/index.html",
+    "en/thank-you/index.html",
+    "en/venezuela-immigration-visa-services/index.html",
+    "en/venture-studio/index.html",
+    "entrada-mercado-venezuela/index.html",
+    "gracias/index.html",
+    "index.html",
+    "insights/antes-de-constituir-venezuela-filial-sucursal-contratos/index.html",
+    "insights/entrada-mercado-venezuela-antes-de-constituir/index.html",
+    "insights/index.html",
+    "legal/index.html",
+    "partners/index.html",
+    "privacy/index.html",
+    "servicios-migratorios-venezuela/index.html",
+    "venture-studio/index.html"
+  ],
+  "new_files_vs_v61": [
+    ".github/workflows/indexnow.yml",
+    "QA_REPORT_V62.json",
+    "RELEASE_NOTES_V62.txt",
+    "SECURITY_AUDIT_V62.md",
+    "aa3bed5a657348efbabdde1844444b73.txt",
+    "assets/insights/venezuela-market-entry-2026-hero.webp",
+    "assets/insights/venezuela-three-entry-structures-2026-en.webp",
+    "assets/insights/venezuela-three-entry-structures-2026.webp",
+    "assets/jose-manuel-alayeto.webp",
+    "assets/mauricio-tancredi-vegas.webp"
+  ],
+  "removed_files_vs_v61": [],
+  "external_domains": {
+    "fonts.googleapis.com": 56,
+    "fonts.gstatic.com": 28,
+    "wa.me": 52,
+    "www.linkedin.com": 8,
+    "interglobalcdb.com": 2,
+    "api.web3forms.com": 6,
+    "mppre.gob.ve": 4
+  },
+  "interglobal_context": [
+    {
+      "file": "en/index.html",
+      "tag": "a",
+      "attribute": "href",
+      "target": "https://interglobalcdb.com/"
+    },
+    {
+      "file": "index.html",
+      "tag": "a",
+      "attribute": "href",
+      "target": "https://interglobalcdb.com/"
+    }
+  ],
+  "browser_qa": "V62 Chromium set_content simulated tests in separate test report; not live navigation",
+  "live_http_header_validation": "NOT VERIFIED",
+  "real_web3forms_email_delivery": "NOT VERIFIED - NO LIVE MESSAGES SENT",
+  "web_fonts_from_google_in_browser": "NOT VERIFIED - BLOCKED NETWORK",
+  "security_header_changes": "NONE - GitHub Pages static deployment cannot be modified with HTML meta",
+  "csp_mode": "HTML meta CSP enforced in test browser with hashed inline executable JS; not HTTP header, not frame-ancestors or report-only",
+  "dns_mail_records": "NOT TOUCHED",
+  "github_main": "NOT TOUCHED",
+  "warnings": [],
+  "errors": [],
+  "browser_simulation": {
+    "engine": "Chromium headless with page.set_content, not HTTP/page navigation",
+    "pages_tested": 18,
+    "viewports_px": [
+      390,
+      768,
+      1024,
+      1366
+    ],
+    "assertions_executed": 263,
+    "assertions_passed": 263,
+    "assertions_failed": 0,
+    "scope": "DOM layout overflow, inline JS behavior, mobile nav, syntax/CSP browser console, Partners mocked form success/error ES/EN",
+    "out_of_scope": "Real HTTP response headers, external Google Fonts, real Web3Forms delivery, third-party traffic and server-side performance",
+    "note": "Browser administrator blocked localhost/file navigation; images were embedded as data URIs and Google Font resources removed for rendering only. Production files are unchanged by this test."
+  },
+  "security_proof_of_enforcement": {
+    "legitimate_inline_JS_executed": true,
+    "injected_unauthorized_inline_script_blocked": true,
+    "CSP_violations_explained_as_test_injection": true
+  },
+  "live_qa_pending": [
+    "Production HTTP response/header checks (CSP HTTP, frame-ancestors/X-Frame-Options, HSTS, nosniff, Permissions-Policy)",
+    "Published GitHub Pages content/hash vs V62 after deployment",
+    "Actual Web3Forms ES/EN delivery with explicit user authorization, confirm in mailbox",
+    "Google Fonts network loading and WebP images on public site",
+    "Core Web Vitals/Lighthouse/CrUX for 390/768/1024/1366 and additional browsers",
+    "DNS/SSL certificate status and renewal, without changing records"
+  ],
+  "baseline_zip_sha256": "db897c0814258165a34370d551ba6311c2c21925c112662d10116d5fba497918",
+  "baseline_file_count": 99,
+  "v62_file_count": 109
+}
