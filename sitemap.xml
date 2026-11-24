@@ -59,7 +59,7 @@
 
   <url>
     <loc>https://esmeraldaservice.com/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.00</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://esmeraldaservice.com/" />
@@ -68,7 +68,7 @@
   </url>
   <url>
     <loc>https://esmeraldaservice.com/en/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.90</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://esmeraldaservice.com/" />
@@ -238,5 +238,219 @@
     <xhtml:link rel="alternate" hreflang="es" href="https://esmeraldaservice.com/partners/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://esmeraldaservice.com/en/partners/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://esmeraldaservice.com/partners/" />
+  </url>
+  <url>
+    <loc>https://esmeraldaservice.com/derecho-laboral-venezuela/</loc>
+    <lastmod>2026-11-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.74</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esmeraldaservice.com/derecho-laboral-venezuela/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://esmeraldaservice.com/en/venezuela-employment-law/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esmeraldaservice.com/derecho-laboral-venezuela/" />
+  </url>
+  <url>
+    <loc>https://esmeraldaservice.com/en/venezuela-employment-law/</loc>
+    <lastmod>2026-11-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.74</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esmeraldaservice.com/derecho-laboral-venezuela/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://esmeraldaservice.com/en/venezuela-employment-law/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esmeraldaservice.com/derecho-laboral-venezuela/" />
+  </url>
+  <url>
+    <loc>https://esmeraldaservice.com/propiedad-intelectual-venezuela/</loc>
+    <lastmod>2026-11-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.74</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esmeraldaservice.com/propiedad-intelectual-venezuela/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://esmeraldaservice.com/en/intellectual-property-venezuela/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esmeraldaservice.com/propiedad-intelectual-venezuela/" />
+  </url>
+  <url>
+    <loc>https://esmeraldaservice.com/en/intellectual-property-venezuela/</loc>
+    <lastmod>2026-11-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.74</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esmeraldaservice.com/propiedad-intelectual-venezuela/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://esmeraldaservice.com/en/intellectual-property-venezuela/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esmeraldaservice.com/propiedad-intelectual-venezuela/" />
+  </url>
+  <url>
+    <loc>https://esmeraldaservice.com/derecho-tributario-venezuela/</loc>
+    <lastmod>2026-11-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.74</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esmeraldaservice.com/derecho-tributario-venezuela/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://esmeraldaservice.com/en/venezuela-tax-law/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esmeraldaservice.com/derecho-tributario-venezuela/" />
+  </url>
+  <url>
+    <loc>https://esmeraldaservice.com/en/venezuela-tax-law/</loc>
+    <lastmod>2026-11-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.74</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esmeraldaservice.com/derecho-tributario-venezuela/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://esmeraldaservice.com/en/venezuela-tax-law/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esmeraldaservice.com/derecho-tributario-venezuela/" />
+  </url>
+  <url>
+    <loc>https://esmeraldaservice.com/litigios-resolucion-conflictos-venezuela/</loc>
+    <lastmod>2026-11-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.74</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esmeraldaservice.com/litigios-resolucion-conflictos-venezuela/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://esmeraldaservice.com/en/venezuela-litigation-dispute-resolution/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esmeraldaservice.com/litigios-resolucion-conflictos-venezuela/" />
+  </url>
+  <url>
+    <loc>https://esmeraldaservice.com/en/venezuela-litigation-dispute-resolution/</loc>
+    <lastmod>2026-11-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.74</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esmeraldaservice.com/litigios-resolucion-conflictos-venezuela/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://esmeraldaservice.com/en/venezuela-litigation-dispute-resolution/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esmeraldaservice.com/litigios-resolucion-conflictos-venezuela/" />
+  </url>
+  <url>
+    <loc>https://esmeraldaservice.com/compliance-regulatorio-venezuela/</loc>
+    <lastmod>2026-11-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.74</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esmeraldaservice.com/compliance-regulatorio-venezuela/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://esmeraldaservice.com/en/venezuela-regulatory-compliance/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esmeraldaservice.com/compliance-regulatorio-venezuela/" />
+  </url>
+  <url>
+    <loc>https://esmeraldaservice.com/en/venezuela-regulatory-compliance/</loc>
+    <lastmod>2026-11-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.74</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esmeraldaservice.com/compliance-regulatorio-venezuela/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://esmeraldaservice.com/en/venezuela-regulatory-compliance/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esmeraldaservice.com/compliance-regulatorio-venezuela/" />
+  </url>
+  <url>
+    <loc>https://esmeraldaservice.com/estrategia-negocios-venezuela/</loc>
+    <lastmod>2026-11-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.74</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esmeraldaservice.com/estrategia-negocios-venezuela/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://esmeraldaservice.com/en/venezuela-business-structuring-strategy/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esmeraldaservice.com/estrategia-negocios-venezuela/" />
+  </url>
+  <url>
+    <loc>https://esmeraldaservice.com/en/venezuela-business-structuring-strategy/</loc>
+    <lastmod>2026-11-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.74</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esmeraldaservice.com/estrategia-negocios-venezuela/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://esmeraldaservice.com/en/venezuela-business-structuring-strategy/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esmeraldaservice.com/estrategia-negocios-venezuela/" />
+  </url>
+  <url>
+    <loc>https://esmeraldaservice.com/aduanas-importaciones-venezuela/</loc>
+    <lastmod>2026-11-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.74</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esmeraldaservice.com/aduanas-importaciones-venezuela/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://esmeraldaservice.com/en/venezuela-customs-imports/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esmeraldaservice.com/aduanas-importaciones-venezuela/" />
+  </url>
+  <url>
+    <loc>https://esmeraldaservice.com/en/venezuela-customs-imports/</loc>
+    <lastmod>2026-11-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.74</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esmeraldaservice.com/aduanas-importaciones-venezuela/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://esmeraldaservice.com/en/venezuela-customs-imports/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esmeraldaservice.com/aduanas-importaciones-venezuela/" />
+  </url>
+  <url>
+    <loc>https://esmeraldaservice.com/derecho-sucesoral-planificacion-patrimonial-venezuela/</loc>
+    <lastmod>2026-11-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.74</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esmeraldaservice.com/derecho-sucesoral-planificacion-patrimonial-venezuela/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://esmeraldaservice.com/en/venezuela-inheritance-estate-planning/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esmeraldaservice.com/derecho-sucesoral-planificacion-patrimonial-venezuela/" />
+  </url>
+  <url>
+    <loc>https://esmeraldaservice.com/en/venezuela-inheritance-estate-planning/</loc>
+    <lastmod>2026-11-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.74</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esmeraldaservice.com/derecho-sucesoral-planificacion-patrimonial-venezuela/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://esmeraldaservice.com/en/venezuela-inheritance-estate-planning/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esmeraldaservice.com/derecho-sucesoral-planificacion-patrimonial-venezuela/" />
+  </url>
+  <url>
+    <loc>https://esmeraldaservice.com/aduanas-importaciones-venezuela/apoyo-agencia-aduanas/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esmeraldaservice.com/aduanas-importaciones-venezuela/apoyo-agencia-aduanas/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esmeraldaservice.com/en/venezuela-customs-imports/customs-brokerage-support/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esmeraldaservice.com/aduanas-importaciones-venezuela/apoyo-agencia-aduanas/"/>
+    <lastmod>2026-11-23</lastmod>
+  </url>
+  <url>
+    <loc>https://esmeraldaservice.com/en/venezuela-customs-imports/customs-brokerage-support/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esmeraldaservice.com/aduanas-importaciones-venezuela/apoyo-agencia-aduanas/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esmeraldaservice.com/en/venezuela-customs-imports/customs-brokerage-support/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esmeraldaservice.com/aduanas-importaciones-venezuela/apoyo-agencia-aduanas/"/>
+    <lastmod>2026-11-23</lastmod>
+  </url>
+  <url>
+    <loc>https://esmeraldaservice.com/aduanas-importaciones-venezuela/importacion-nacionalizacion/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esmeraldaservice.com/aduanas-importaciones-venezuela/importacion-nacionalizacion/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esmeraldaservice.com/en/venezuela-customs-imports/import-clearance/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esmeraldaservice.com/aduanas-importaciones-venezuela/importacion-nacionalizacion/"/>
+    <lastmod>2026-11-23</lastmod>
+  </url>
+  <url>
+    <loc>https://esmeraldaservice.com/en/venezuela-customs-imports/import-clearance/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esmeraldaservice.com/aduanas-importaciones-venezuela/importacion-nacionalizacion/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esmeraldaservice.com/en/venezuela-customs-imports/import-clearance/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esmeraldaservice.com/aduanas-importaciones-venezuela/importacion-nacionalizacion/"/>
+    <lastmod>2026-11-23</lastmod>
+  </url>
+  <url>
+    <loc>https://esmeraldaservice.com/derecho-sucesoral-planificacion-patrimonial-venezuela/planificacion-sucesoral/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esmeraldaservice.com/derecho-sucesoral-planificacion-patrimonial-venezuela/planificacion-sucesoral/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esmeraldaservice.com/en/venezuela-inheritance-estate-planning/succession-planning/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esmeraldaservice.com/derecho-sucesoral-planificacion-patrimonial-venezuela/planificacion-sucesoral/"/>
+    <lastmod>2026-11-23</lastmod>
+  </url>
+  <url>
+    <loc>https://esmeraldaservice.com/en/venezuela-inheritance-estate-planning/succession-planning/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esmeraldaservice.com/derecho-sucesoral-planificacion-patrimonial-venezuela/planificacion-sucesoral/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esmeraldaservice.com/en/venezuela-inheritance-estate-planning/succession-planning/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esmeraldaservice.com/derecho-sucesoral-planificacion-patrimonial-venezuela/planificacion-sucesoral/"/>
+    <lastmod>2026-11-23</lastmod>
+  </url>
+  <url>
+    <loc>https://esmeraldaservice.com/derecho-sucesoral-planificacion-patrimonial-venezuela/particion-controversias/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esmeraldaservice.com/derecho-sucesoral-planificacion-patrimonial-venezuela/particion-controversias/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esmeraldaservice.com/en/venezuela-inheritance-estate-planning/estate-partition-disputes/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esmeraldaservice.com/derecho-sucesoral-planificacion-patrimonial-venezuela/particion-controversias/"/>
+    <lastmod>2026-11-23</lastmod>
+  </url>
+  <url>
+    <loc>https://esmeraldaservice.com/en/venezuela-inheritance-estate-planning/estate-partition-disputes/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esmeraldaservice.com/derecho-sucesoral-planificacion-patrimonial-venezuela/particion-controversias/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esmeraldaservice.com/en/venezuela-inheritance-estate-planning/estate-partition-disputes/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esmeraldaservice.com/derecho-sucesoral-planificacion-patrimonial-venezuela/particion-controversias/"/>
+    <lastmod>2026-11-23</lastmod>
+  </url>
+  <url>
+    <loc>https://esmeraldaservice.com/acerca-de-nosotros/</loc>
+    <lastmod>2026-11-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esmeraldaservice.com/acerca-de-nosotros/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://esmeraldaservice.com/en/about-us/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esmeraldaservice.com/acerca-de-nosotros/" />
+  </url>
+  <url>
+    <loc>https://esmeraldaservice.com/en/about-us/</loc>
+    <lastmod>2026-11-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esmeraldaservice.com/acerca-de-nosotros/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://esmeraldaservice.com/en/about-us/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esmeraldaservice.com/acerca-de-nosotros/" />
   </url>
 </urlset>
